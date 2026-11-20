@@ -1,0 +1,1068 @@
+[
+ {
+  "id": "APP-2026-4100",
+  "received": "2026-11-02",
+  "position": "Junior Data Analyst",
+  "department": "Analytics",
+  "applicant": {
+   "name": "Hannah Becker",
+   "citizenship": "Germany",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Scan.pdf",
+    "text": "CURRICULUM VITAE\nHannah Becker\nAddress: Am Wasserturm 105, 68161 Mannheim\nPhone: +49 151 0000001 · E-mail: hannah.becker@example.org\nDate of birth: 17.11.1999 · Citizenship: Germany\n\nPROFILE\nM.Sc. graduate in Management with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Bergland Versicherung\n01/2026 – 08/2026\n- Built and maintained dashboards for sales and operations in Power BI.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n\nWorking Student, Lumen Retail Group\n02/2025 – 12/2025\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n\nEDUCATION\nM.Sc. Management, Rheinau Institute of Technology, 2021 – 2023\nThesis: \"Forecasting weekly demand with gradient boosting\". Final grade: 1.9.\n\nSKILLS\n- Excel (pivot tables, Power Query)\n- MS Project\n- Power BI\n- SQL\n- Tableau\n\nLANGUAGES\n- German: native speaker\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "Hannah Becker\nApplication as Junior Data Analyst (Analytics)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Junior Data Analyst, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Management at Rheinau Institute of Technology I focused on the topics that matter in this role. At Bergland Versicherung I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 4 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nHannah Becker"
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "RHEINAU INSTITUTE OF TECHNOLOGY\nCERTIFICATE\n\nThis is to certify that Hannah Becker, born on 17.11.1999, has passed the final examination in the degree programme Management and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 1.9 (good)\nTitle of the thesis: \"Forecasting weekly demand with gradient boosting\"\nECTS credits: 120\n\n01.09.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "Rheinau Institute of Technology – Transcript of Records\nStudent: Hannah Becker · Matriculation number: 1459627 · Programme: Management (M.Sc.)\n\nMacroeconomics                                              6 ECTS   grade 2.2\nDecision Analysis                                           6 ECTS   grade 1.3\nBusiness Law                                                6 ECTS   grade 2.1\nIntroduction to Business Administration                     6 ECTS   grade 1.9\nMarketing                                                   6 ECTS   grade 2.0\nSoftware Engineering                                        6 ECTS   grade 2.0\nOperations Management                                       6 ECTS   grade 1.8\nData Warehousing                                            6 ECTS   grade 1.9\nHuman Resource Management                                   6 ECTS   grade 1.6\nEconometrics                                                6 ECTS   grade 2.1\nProgramming II                                              6 ECTS   grade 2.4\nEnterprise Systems                                          6 ECTS   grade 2.5\nProcess Management                                          6 ECTS   grade 1.7\nProgramming I                                               6 ECTS   grade 1.5\nMachine Learning                                            6 ECTS   grade 1.8\nMaster Thesis: Forecasting weekly demand with gradient boosting 30 ECTS   grade 1.9\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 1.9\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "Lumen Retail Group – Letter of Reference\n\nHannah Becker, born on 17.11.1999, worked in our company as Working Student from 02/2025 to 12/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Hannah familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nHannah was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Hannah for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "IMG_2291.jpg",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4107",
+  "received": "2026-11-03",
+  "position": "Working Student Controlling",
+  "department": "Finance",
+  "applicant": {
+   "name": "Lukas Hoffmann",
+   "citizenship": "Germany",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "CURRICULUM VITAE\nLukas Hoffmann\nAddress: Hafenstraße 31, 69115 Heidelberg\nPhone: +49 151 0000002 · E-mail: lukas.hoffmann@example.org\nDate of birth: 03.03.1997 · Citizenship: Germany\n\nPROFILE\nM.Sc. graduate in Management with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Lumen Retail Group\n02/2026 – 09/2026\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nWorking Student, Rheintal Bank\n04/2025 – 01/2026\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nIntern, Velstad Maschinenbau\n04/2024 – 02/2025\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nEDUCATION\nM.Sc. Management, Rheinau Institute of Technology, 2024 – 2026\nThesis: \"Forecasting weekly demand with gradient boosting\". Final grade: 1.8.\n\nSKILLS\n- Excel (pivot tables, Power Query)\n- SQL\n- Tableau\n- Salesforce\n- Power BI\n\nLANGUAGES\n- German: native speaker\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "Lukas Hoffmann\nApplication as Working Student Controlling (Finance)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Working Student Controlling, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Management at Rheinau Institute of Technology I focused on the topics that matter in this role. At Lumen Retail Group I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 16 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nLukas Hoffmann"
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "RHEINAU INSTITUTE OF TECHNOLOGY\nCERTIFICATE\n\nThis is to certify that Lukas Hoffmann, born on 03.03.1997, has passed the final examination in the degree programme Management and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 1.8 (good)\nTitle of the thesis: \"Forecasting weekly demand with gradient boosting\"\nECTS credits: 120\n\n18.07.2026\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "Rheinau Institute of Technology – Transcript of Records\nStudent: Lukas Hoffmann · Matriculation number: 1725790 · Programme: Management (M.Sc.)\n\nEnterprise Systems                                          6 ECTS   grade 1.3\nHuman Resource Management                                   6 ECTS   grade 1.4\nMathematics II                                              6 ECTS   grade 1.5\nCorporate Finance                                           6 ECTS   grade 1.2\nIntroduction to Business Administration                     6 ECTS   grade 1.8\nMacroeconomics                                              6 ECTS   grade 1.4\nCost Accounting                                             6 ECTS   grade 2.1\nDatabases                                                   6 ECTS   grade 1.4\nDecision Analysis                                           6 ECTS   grade 1.8\nOperations Management                                       6 ECTS   grade 2.4\nProject Management                                          6 ECTS   grade 2.1\nMachine Learning                                            6 ECTS   grade 1.4\nMathematics I                                               6 ECTS   grade 1.7\nProcess Management                                          6 ECTS   grade 2.3\nAccounting                                                  6 ECTS   grade 2.3\nMaster Thesis: Forecasting weekly demand with gradient boosting 30 ECTS   grade 1.9\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 1.8\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "Rheintal Bank – Letter of Reference\n\nLukas Hoffmann, born on 03.03.1997, worked in our company as Working Student from 04/2025 to 01/2026. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Lukas familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nLukas was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Lukas for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Bewerbung_neu.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "doc20261102.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4114",
+  "received": "2026-11-04",
+  "position": "HR Business Partner",
+  "department": "People",
+  "applicant": {
+   "name": "Aarav Sharma",
+   "citizenship": "India",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "Scan.pdf",
+    "text": "CURRICULUM VITAE\nAarav Sharma\nAddress: Lindenstraße 23, 60311 Frankfurt\nPhone: +49 151 0000003 · E-mail: aarav.sharma@example.org\nDate of birth: 04.05.1998 · Citizenship: India\n\nPROFILE\nB.A. graduate in Economics with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Nordwind Logistik GmbH\n10/2025 – 09/2026\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n- Took part in a project to introduce a new ticket system and trained the key users.\n\nWorking Student, Velstad Maschinenbau\n12/2024 – 08/2025\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n\nIntern, Fennwick Systems\n03/2024 – 11/2024\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n\nEDUCATION\nB.A. Economics, Lindtal University, 2021 – 2024\nThesis: \"Process mining in order-to-cash\". Final grade: 2.6.\n\nSKILLS\n- SQL\n- SAP S/4HANA (basics)\n- Power BI\n- Jira\n- R\n- Excel (pivot tables, Power Query)\n\nLANGUAGES\n- Hindi: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "Aarav Sharma\nApplication as HR Business Partner (People)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of HR Business Partner, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Economics at Lindtal University I focused on the topics that matter in this role. At Nordwind Logistik GmbH I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 22 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nAarav Sharma"
+   },
+   {
+    "file_name": "scan_0001.pdf",
+    "text": "LINDTAL UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Aarav Sharma, born on 04.05.1998, has passed the final examination in the degree programme Economics and has been awarded the academic degree\nBachelor of Arts (B.A.)\n\nOverall grade: 2.6 (satisfactory)\nTitle of the thesis: \"Process mining in order-to-cash\"\nECTS credits: 180\n\n22.07.2024\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "Lindtal University – Transcript of Records\nStudent: Aarav Sharma · Matriculation number: 1905161 · Programme: Economics (B.A.)\n\nCost Accounting                                             6 ECTS   grade 2.3\nProcess Management                                          6 ECTS   grade 2.9\nProgramming II                                              6 ECTS   grade 2.5\nData Warehousing                                            6 ECTS   grade 2.6\nBusiness Law                                                6 ECTS   grade 1.9\nEconometrics                                                6 ECTS   grade 3.0\nSeminar                                                     6 ECTS   grade 2.8\nMachine Learning                                            6 ECTS   grade 2.5\nMathematics II                                              6 ECTS   grade 2.3\nCorporate Finance                                           6 ECTS   grade 2.9\nProgramming I                                               6 ECTS   grade 1.9\nAccounting                                                  6 ECTS   grade 2.2\nMathematics I                                               6 ECTS   grade 3.2\nDecision Analysis                                           6 ECTS   grade 2.7\nStatistics II                                               6 ECTS   grade 3.2\nOperations Management                                       6 ECTS   grade 2.4\nOrganisational Behaviour                                    6 ECTS   grade 2.6\nMacroeconomics                                              6 ECTS   grade 2.6\nInformation Security                                        6 ECTS   grade 2.3\nMicroeconomics                                              6 ECTS   grade 2.2\nEnterprise Systems                                          6 ECTS   grade 2.0\nHuman Resource Management                                   6 ECTS   grade 3.1\nStatistics I                                                6 ECTS   grade 3.0\nMarketing                                                   6 ECTS   grade 3.1\nSoftware Engineering                                        6 ECTS   grade 2.5\nDatabases                                                   6 ECTS   grade 2.8\nProject Management                                          6 ECTS   grade 2.3\nIntroduction to Business Administration                     6 ECTS   grade 2.8\nBachelor Thesis: Process mining in order-to-cash           12 ECTS   grade 2.1\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 2.6\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "Dokument (3).pdf",
+    "text": "SPECIMEN · RESIDENCE PERMIT (Aufenthaltstitel)\nSurname: SHARMA · Given names: AARAV\nDate of birth: 04.05.1998 · Nationality: India\nType of permit: Settlement permit (Niederlassungserlaubnis) under § 9 AufenthG\nRemarks: EMPLOYMENT PERMITTED (Erwerbstätigkeit erlaubt)\nCard valid until: 07.02.2032\nCard number: F19627957\nIssuing authority: Ausländerbehörde Musterhausen"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "scan_0001.pdf",
+    "readable": true
+   },
+   "work_permit": {
+    "file_name": "Dokument (3).pdf",
+    "readable": true
+   }
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4121",
+  "received": "2026-11-05",
+  "position": "Software Engineer Backend",
+  "department": "Engineering",
+  "applicant": {
+   "name": "Camille Laurent",
+   "citizenship": "France",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "CURRICULUM VITAE\nCamille Laurent\nAddress: Schillerplatz 89, 69115 Heidelberg\nPhone: +49 151 0000004 · E-mail: camille.laurent@example.org\nDate of birth: 06.11.1995 · Citizenship: France\n\nPROFILE\nM.Sc. graduate in Data Science with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Solvia Energie SE\n08/2025 – 06/2026\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n- Took part in a project to introduce a new ticket system and trained the key users.\n\nWorking Student, Nordwind Logistik GmbH\n06/2024 – 05/2025\n- Took part in a project to introduce a new ticket system and trained the key users.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n\nIntern, Hollerbach & Kraus AG\n05/2023 – 03/2024\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n\nEDUCATION\nM.Sc. Data Science, Rheinau Institute of Technology, 2024 – 2026\nThesis: \"Acceptance of self-service analytics\". Final grade: 1.6.\n\nSKILLS\n- SQL\n- Jira\n- SAP S/4HANA (basics)\n- Tableau\n- Python (pandas)\n- Excel (pivot tables, Power Query)\n\nLANGUAGES\n- French: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "Camille Laurent\nApplication as Software Engineer Backend (Engineering)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Software Engineer Backend, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Data Science at Rheinau Institute of Technology I focused on the topics that matter in this role. At Solvia Energie SE I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 22 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nCamille Laurent"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "RHEINAU INSTITUTE OF TECHNOLOGY\nCERTIFICATE\n\nThis is to certify that Camille Laurent, born on 06.11.1995, has passed the final examination in the degree programme Data Science and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 1.6 (good)\nTitle of the thesis: \"Acceptance of self-service analytics\"\nECTS credits: 120\n\n27.07.2026\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "scan_0001.pdf",
+    "text": "Rheinau Institute of Technology – Transcript of Records\nStudent: Camille Laurent · Matriculation number: 1550564 · Programme: Data Science (M.Sc.)\n\nInformation Security                                        6 ECTS   grade 1.1\nProgramming I                                               6 ECTS   grade 1.2\nMachine Learning                                            6 ECTS   grade 1.1\nCost Accounting                                             6 ECTS   grade 1.3\nMarketing                                                   6 ECTS   grade 1.6\nCorporate Finance                                           6 ECTS   grade 1.7\nMicroeconomics                                              6 ECTS   grade 1.5\nIntroduction to Business Administration                     6 ECTS   grade 2.3\nData Warehousing                                            6 ECTS   grade 1.4\nSoftware Engineering                                        6 ECTS   grade 2.0\nEnterprise Systems                                          6 ECTS   grade 2.0\nAccounting                                                  6 ECTS   grade 2.1\nProgramming II                                              6 ECTS   grade 1.2\nMacroeconomics                                              6 ECTS   grade 1.2\nProcess Management                                          6 ECTS   grade 1.8\nMaster Thesis: Acceptance of self-service analytics        30 ECTS   grade 1.7\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 1.6\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4128",
+  "received": "2026-11-06",
+  "position": "Procurement Specialist",
+  "department": "Procurement",
+  "applicant": {
+   "name": "Mateo Fernández",
+   "citizenship": "Spain",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "CURRICULUM VITAE\nMateo Fernández\nAddress: Lindenstraße 64, 70173 Stuttgart\nPhone: +49 151 0000005 · E-mail: mateo.fernndez@example.org\nDate of birth: 05.09.1997 · Citizenship: Spain\n\nPROFILE\nM.Sc. graduate in Data Science with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Bergland Versicherung\n10/2025 – 07/2026\n- Took part in a project to introduce a new ticket system and trained the key users.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nWorking Student, Solvia Energie SE\n01/2025 – 07/2025\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n\nEDUCATION\nM.Sc. Data Science, Lindtal University, 2021 – 2023\nThesis: \"Acceptance of self-service analytics\". Final grade: 2.4.\n\nSKILLS\n- Salesforce\n- SAP S/4HANA (basics)\n- Tableau\n- MS Project\n- Power BI\n\nLANGUAGES\n- Spanish: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "Mateo Fernández\nApplication as Procurement Specialist (Procurement)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Procurement Specialist, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Data Science at Lindtal University I focused on the topics that matter in this role. At Bergland Versicherung I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 21 February 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nMateo Fernández"
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "LINDTAL UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Mateo Fernández, born on 05.09.1997, has passed the final examination in the degree programme Data Science and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 2.4 (good)\nTitle of the thesis: \"Acceptance of self-service analytics\"\nECTS credits: 120\n\n23.07.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "Lindtal University – Transcript of Records\nStudent: Mateo Fernández · Matriculation number: 1624798 · Programme: Data Science (M.Sc.)\n\nIntroduction to Business Administration                     6 ECTS   grade 2.3\nBusiness Law                                                6 ECTS   grade 2.0\nSoftware Engineering                                        6 ECTS   grade 2.5\nData Warehousing                                            6 ECTS   grade 2.4\nDecision Analysis                                           6 ECTS   grade 1.9\nOrganisational Behaviour                                    6 ECTS   grade 2.2\nMarketing                                                   6 ECTS   grade 2.6\nMathematics II                                              6 ECTS   grade 2.4\nMicroeconomics                                              6 ECTS   grade 2.6\nProcess Management                                          6 ECTS   grade 2.4\nSeminar                                                     6 ECTS   grade 2.6\nProgramming I                                               6 ECTS   grade 2.5\nOperations Management                                       6 ECTS   grade 2.5\nHuman Resource Management                                   6 ECTS   grade 2.6\nMachine Learning                                            6 ECTS   grade 1.7\nMaster Thesis: Acceptance of self-service analytics        30 ECTS   grade 2.4\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 2.4\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "Solvia Energie SE – Letter of Reference\n\nMateo Fernández, born on 05.09.1997, worked in our company as Working Student from 01/2025 to 07/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Mateo familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nMateo was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Mateo for the very good work and wish all the best for the future.\n\nHead of Department"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Unterlagen.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4135",
+  "received": "2026-11-07",
+  "position": "Customer Success Manager",
+  "department": "Customer Service",
+  "applicant": {
+   "name": "Emily Carter",
+   "citizenship": "Canada",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "CURRICULUM VITAE\nEmily Carter\nAddress: Schillerplatz 5, 69115 Heidelberg\nPhone: +49 151 0000006 · E-mail: emily.carter@example.org\nDate of birth: 12.04.1995 · Citizenship: Canada\n\nPROFILE\nB.Sc. graduate in Business Administration with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Rheintal Bank\n09/2025 – 08/2026\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nWorking Student, Hollerbach & Kraus AG\n09/2024 – 07/2025\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nEDUCATION\nB.Sc. Business Administration, University of Altenbrück, 2020 – 2023\nThesis: \"Automating invoice matching\". Final grade: 2.6.\n\nSKILLS\n- Power BI\n- R\n- SAP S/4HANA (basics)\n- Excel (pivot tables, Power Query)\n- Python (pandas)\n- Salesforce\n- Tableau\n\nLANGUAGES\n- English: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "Emily Carter\nApplication as Customer Success Manager (Customer Service)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Customer Success Manager, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Business Administration at University of Altenbrück I focused on the topics that matter in this role. At Rheintal Bank I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 22 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nEmily Carter"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "UNIVERSITY OF ALTENBRÜCK\nCERTIFICATE\n\nThis is to certify that Emily Carter, born on 12.04.1995, has passed the final examination in the degree programme Business Administration and has been awarded the academic degree\nBachelor of Science (B.Sc.)\n\nOverall grade: 2.6 (satisfactory)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 180\n\n15.07.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "University of Altenbrück – Transcript of Records\nStudent: Emily Carter · Matriculation number: 1690955 · Programme: Business Administration (B.Sc.)\n\nDatabases                                                   6 ECTS   grade 2.9\nMarketing                                                   6 ECTS   grade 2.0\nSoftware Engineering                                        6 ECTS   grade 3.2\nProcess Management                                          6 ECTS   grade 2.6\nOperations Management                                       6 ECTS   grade 2.9\nDecision Analysis                                           6 ECTS   grade 2.6\nProgramming II                                              6 ECTS   grade 2.8\nData Warehousing                                            6 ECTS   grade 2.2\nCost Accounting                                             6 ECTS   grade 2.4\nProject Management                                          6 ECTS   grade 2.9\nMachine Learning                                            6 ECTS   grade 2.8\nSeminar                                                     6 ECTS   grade 2.8\nProgramming I                                               6 ECTS   grade 2.0\nBusiness Law                                                6 ECTS   grade 2.8\nCorporate Finance                                           6 ECTS   grade 3.0\nEconometrics                                                6 ECTS   grade 2.6\nEnterprise Systems                                          6 ECTS   grade 2.4\nStatistics I                                                6 ECTS   grade 2.1\nIntroduction to Business Administration                     6 ECTS   grade 2.6\nAccounting                                                  6 ECTS   grade 2.8\nOrganisational Behaviour                                    6 ECTS   grade 2.0\nInformation Security                                        6 ECTS   grade 2.4\nHuman Resource Management                                   6 ECTS   grade 2.1\nMathematics I                                               6 ECTS   grade 3.0\nMathematics II                                              6 ECTS   grade 2.2\nStatistics II                                               6 ECTS   grade 2.9\nMicroeconomics                                              6 ECTS   grade 2.1\nMacroeconomics                                              6 ECTS   grade 2.4\nBachelor Thesis: Automating invoice matching               12 ECTS   grade 2.5\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 2.6\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Unterlagen.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "missing work_permit"
+ },
+ {
+  "id": "APP-2026-4142",
+  "received": "2026-11-08",
+  "position": "Financial Accountant",
+  "department": "Finance",
+  "applicant": {
+   "name": "Giulia Romano",
+   "citizenship": "Italy",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "CURRICULUM VITAE\nGiulia Romano\nAddress: Am Wasserturm 106, 50667 Köln\nPhone: +49 151 0000007 · E-mail: giulia.romano@example.org\nDate of birth: 22.09.1996 · Citizenship: Italy\n\nPROFILE\nB.Sc. graduate in Business Administration with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Bergland Versicherung\n10/2025 – 09/2026\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Took part in a project to introduce a new ticket system and trained the key users.\n\nWorking Student, Lumen Retail Group\n09/2024 – 08/2025\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Took part in a project to introduce a new ticket system and trained the key users.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nEDUCATION\nB.Sc. Business Administration, Lindtal University, 2020 – 2023\nThesis: \"Process mining in order-to-cash\". Final grade: 2.0.\n\nSKILLS\n- Python (pandas)\n- SQL\n- Salesforce\n- Jira\n- Power BI\n- MS Project\n- SAP S/4HANA (basics)\n\nLANGUAGES\n- Italian: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "Giulia Romano\nApplication as Financial Accountant (Finance)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Financial Accountant, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Business Administration at Lindtal University I focused on the topics that matter in this role. At Bergland Versicherung I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 27 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nGiulia Romano"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "LINDTAL UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Giulia Romano, born on 22.09.1996, has passed the final examination in the degree programme Business Administration and has been awarded the academic degree\nBachelor of Science (B.Sc.)\n\nOverall grade: 2.0 (good)\nTitle of the thesis: \"Process mining in order-to-cash\"\nECTS credits: 180\n\n10.09.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "Lindtal University – Transcript of Records\nStudent: Giulia Romano · Matriculation number: 1578317 · Programme: Business Administration (B.Sc.)\n\nEconometrics                                                6 ECTS   grade 2.3\nAccounting                                                  6 ECTS   grade 1.6\nDecision Analysis                                           6 ECTS   grade 1.8\nCorporate Finance                                           6 ECTS   grade 1.3\nOperations Management                                       6 ECTS   grade 2.1\nSoftware Engineering                                        6 ECTS   grade 1.6\nProgramming I                                               6 ECTS   grade 2.2\nDatabases                                                   6 ECTS   grade 1.8\nIntroduction to Business Administration                     6 ECTS   grade 2.4\nProcess Management                                          6 ECTS   grade 1.6\nMathematics I                                               6 ECTS   grade 1.7\nSeminar                                                     6 ECTS   grade 2.7\nInformation Security                                        6 ECTS   grade 1.3\nStatistics I                                                6 ECTS   grade 2.4\nStatistics II                                               6 ECTS   grade 1.9\nMathematics II                                              6 ECTS   grade 1.4\nHuman Resource Management                                   6 ECTS   grade 1.7\nCost Accounting                                             6 ECTS   grade 2.6\nBusiness Law                                                6 ECTS   grade 2.0\nMachine Learning                                            6 ECTS   grade 1.8\nProgramming II                                              6 ECTS   grade 2.0\nMicroeconomics                                              6 ECTS   grade 2.1\nProject Management                                          6 ECTS   grade 2.7\nData Warehousing                                            6 ECTS   grade 2.2\nMarketing                                                   6 ECTS   grade 1.9\nOrganisational Behaviour                                    6 ECTS   grade 1.8\nMacroeconomics                                              6 ECTS   grade 2.6\nEnterprise Systems                                          6 ECTS   grade 1.8\nBachelor Thesis: Process mining in order-to-cash           12 ECTS   grade 1.9\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 2.0\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4149",
+  "received": "2026-11-09",
+  "position": "IT Support Specialist",
+  "department": "IT",
+  "applicant": {
+   "name": "Jakub Kowalski",
+   "citizenship": "Poland",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "CURRICULUM VITAE\nJakub Kowalski\nAddress: Am Wasserturm 5, 50667 Köln\nPhone: +49 151 0000008 · E-mail: jakub.kowalski@example.org\nDate of birth: 10.03.1995 · Citizenship: Poland\n\nPROFILE\nM.Sc. graduate in Data Science with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Rheintal Bank\n01/2026 – 08/2026\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n\nWorking Student, Fennwick Systems\n12/2024 – 10/2025\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n\nEDUCATION\nM.Sc. Data Science, Rheinau Institute of Technology, 2022 – 2024\nThesis: \"Automating invoice matching\". Final grade: 1.3.\n\nSKILLS\n- R\n- Jira\n- Excel (pivot tables, Power Query)\n- Salesforce\n- MS Project\n- SQL\n\nLANGUAGES\n- Polish: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "Jakub Kowalski\nApplication as IT Support Specialist (IT)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of IT Support Specialist, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Data Science at Rheinau Institute of Technology I focused on the topics that matter in this role. At Rheintal Bank I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 22 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nJakub Kowalski"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "RHEINAU INSTITUTE OF TECHNOLOGY\nCERTIFICATE\n\nThis is to certify that Jakub Kowalski, born on 10.03.1995, has passed the final examination in the degree programme Data Science and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 1.3 (very good)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 120\n\n20.07.2024\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "upload.pdf",
+    "text": "Rheinau Institute of Technology – Transcript of Records\nStudent: Jakub Kowalski · Matriculation number: 1802428 · Programme: Data Science (M.Sc.)\n\nMicroeconomics                                              6 ECTS   grade 1.0\nProject Management                                          6 ECTS   grade 1.0\nInformation Security                                        6 ECTS   grade 1.4\nHuman Resource Management                                   6 ECTS   grade 1.8\nIntroduction to Business Administration                     6 ECTS   grade 1.1\nDatabases                                                   6 ECTS   grade 1.0\nDecision Analysis                                           6 ECTS   grade 1.5\nMachine Learning                                            6 ECTS   grade 1.3\nMathematics I                                               6 ECTS   grade 1.7\nMarketing                                                   6 ECTS   grade 1.9\nStatistics II                                               6 ECTS   grade 1.0\nMacroeconomics                                              6 ECTS   grade 1.2\nData Warehousing                                            6 ECTS   grade 1.1\nMathematics II                                              6 ECTS   grade 1.3\nEnterprise Systems                                          6 ECTS   grade 1.1\nMaster Thesis: Automating invoice matching                 30 ECTS   grade 1.2\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 1.3\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "Fennwick Systems – Letter of Reference\n\nJakub Kowalski, born on 10.03.1995, worked in our company as Working Student from 12/2024 to 10/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Jakub familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nJakub was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Jakub for the very good work and wish all the best for the future.\n\nTeam Lead"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Unterlagen.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4156",
+  "received": "2026-11-10",
+  "position": "Junior Data Analyst",
+  "department": "Analytics",
+  "applicant": {
+   "name": "Rafael Oliveira",
+   "citizenship": "Brazil",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "CURRICULUM VITAE\nRafael Oliveira\nAddress: Schillerplatz 36, 68161 Mannheim\nPhone: +49 151 0000009 · E-mail: rafael.oliveira@example.org\nDate of birth: 05.03.1997 · Citizenship: Brazil\n\nPROFILE\nB.Sc. graduate in Business Informatics with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Fennwick Systems\n09/2025 – 06/2026\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nWorking Student, Nordwind Logistik GmbH\n09/2024 – 08/2025\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n\nEDUCATION\nB.Sc. Business Informatics, TU Westerfeld, 2020 – 2023\nThesis: \"Forecasting weekly demand with gradient boosting\". Final grade: 2.2.\n\nSKILLS\n- Excel (pivot tables, Power Query)\n- Tableau\n- Power BI\n- Python (pandas)\n- R\n- SAP S/4HANA (basics)\n\nLANGUAGES\n- Portuguese: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "Rafael Oliveira\nApplication as Junior Data Analyst (Analytics)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Junior Data Analyst, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Business Informatics at TU Westerfeld I focused on the topics that matter in this role. At Fennwick Systems I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 17 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nRafael Oliveira"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "TU WESTERFELD\nCERTIFICATE\n\nThis is to certify that Rafael Oliveira, born on 05.03.1997, has passed the final examination in the degree programme Business Informatics and has been awarded the academic degree\nBachelor of Science (B.Sc.)\n\nOverall grade: 2.2 (good)\nTitle of the thesis: \"Forecasting weekly demand with gradient boosting\"\nECTS credits: 180\n\n09.09.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "TU Westerfeld – Transcript of Records\nStudent: Rafael Oliveira · Matriculation number: 1619288 · Programme: Business Informatics (B.Sc.)\n\nProgramming II                                              6 ECTS   grade 2.2\nHuman Resource Management                                   6 ECTS   grade 2.3\nStatistics I                                                6 ECTS   grade 2.7\nMicroeconomics                                              6 ECTS   grade 2.1\nBusiness Law                                                6 ECTS   grade 1.6\nCost Accounting                                             6 ECTS   grade 1.8\nSoftware Engineering                                        6 ECTS   grade 2.9\nData Warehousing                                            6 ECTS   grade 2.3\nDatabases                                                   6 ECTS   grade 1.8\nMathematics I                                               6 ECTS   grade 2.5\nProgramming I                                               6 ECTS   grade 2.2\nIntroduction to Business Administration                     6 ECTS   grade 1.9\nMathematics II                                              6 ECTS   grade 2.9\nEconometrics                                                6 ECTS   grade 2.2\nAccounting                                                  6 ECTS   grade 2.5\nInformation Security                                        6 ECTS   grade 1.9\nProcess Management                                          6 ECTS   grade 2.2\nCorporate Finance                                           6 ECTS   grade 1.8\nStatistics II                                               6 ECTS   grade 1.9\nProject Management                                          6 ECTS   grade 2.3\nMarketing                                                   6 ECTS   grade 1.8\nSeminar                                                     6 ECTS   grade 2.6\nOrganisational Behaviour                                    6 ECTS   grade 2.4\nEnterprise Systems                                          6 ECTS   grade 2.6\nOperations Management                                       6 ECTS   grade 1.8\nMachine Learning                                            6 ECTS   grade 2.0\nMacroeconomics                                              6 ECTS   grade 1.8\nDecision Analysis                                           6 ECTS   grade 2.2\nBachelor Thesis: Forecasting weekly demand with gradient boosting 12 ECTS   grade 2.2\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 2.2\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "SPECIMEN · RESIDENCE PERMIT (Aufenthaltstitel)\nSurname: OLIVEIRA · Given names: RAFAEL\nDate of birth: 05.03.1997 · Nationality: Brazil\nType of permit: Settlement permit (Niederlassungserlaubnis) under § 9 AufenthG\nRemarks: EMPLOYMENT PERMITTED (Erwerbstätigkeit erlaubt)\nCard valid until: 08.10.2032\nCard number: Y59675374\nIssuing authority: Ausländerbehörde Musterstadt"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Unterlagen.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   }
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4163",
+  "received": "2026-11-11",
+  "position": "Working Student Controlling",
+  "department": "Finance",
+  "applicant": {
+   "name": "Sanne de Vries",
+   "citizenship": "Netherlands",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "CURRICULUM VITAE\nSanne de Vries\nAddress: Bergweg 21, 69115 Heidelberg\nPhone: +49 151 0000010 · E-mail: sanne.devries@example.org\nDate of birth: 18.07.1994 · Citizenship: Netherlands\n\nPROFILE\nB.Sc. graduate in Business Administration with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Fennwick Systems\n08/2025 – 07/2026\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nWorking Student, Velstad Maschinenbau\n08/2024 – 06/2025\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nIntern, Nordwind Logistik GmbH\n06/2023 – 05/2024\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n\nEDUCATION\nB.Sc. Business Administration, Nordheim University, 2022 – 2025\nThesis: \"Automating invoice matching\". Final grade: 1.7.\n\nSKILLS\n- Tableau\n- MS Project\n- SQL\n- Python (pandas)\n- Salesforce\n\nLANGUAGES\n- Dutch: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "Sanne de Vries\nApplication as Working Student Controlling (Finance)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Working Student Controlling, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Business Administration at Nordheim University I focused on the topics that matter in this role. At Fennwick Systems I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 8 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nSanne de Vries"
+   },
+   {
+    "file_name": "Dokument (3).pdf",
+    "text": "NORDHEIM UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Sanne de Vries, born on 18.07.1994, has passed the final examination in the degree programme Business Administration and has been awarded the academic degree\nBachelor of Science (B.Sc.)\n\nOverall grade: 1.7 (good)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 180\n\n08.03.2025\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "Nordheim University – Transcript of Records\nStudent: Sanne de Vries · Matriculation number: 1515391 · Programme: Business Administration (B.Sc.)\n\nDatabases                                                   6 ECTS   grade 2.3\nCorporate Finance                                           6 ECTS   grade 1.1\nMathematics I                                               6 ECTS   grade 1.9\nProgramming II                                              6 ECTS   grade 2.2\nSeminar                                                     6 ECTS   grade 1.7\nData Warehousing                                            6 ECTS   grade 1.6\nMicroeconomics                                              6 ECTS   grade 1.1\nEconometrics                                                6 ECTS   grade 1.6\nProgramming I                                               6 ECTS   grade 1.2\nHuman Resource Management                                   6 ECTS   grade 1.1\nMachine Learning                                            6 ECTS   grade 1.2\nSoftware Engineering                                        6 ECTS   grade 2.0\nMarketing                                                   6 ECTS   grade 1.8\nAccounting                                                  6 ECTS   grade 1.4\nIntroduction to Business Administration                     6 ECTS   grade 1.2\nOperations Management                                       6 ECTS   grade 1.6\nMathematics II                                              6 ECTS   grade 1.6\nOrganisational Behaviour                                    6 ECTS   grade 1.4\nEnterprise Systems                                          6 ECTS   grade 1.6\nInformation Security                                        6 ECTS   grade 1.5\nProject Management                                          6 ECTS   grade 1.6\nBusiness Law                                                6 ECTS   grade 1.1\nCost Accounting                                             6 ECTS   grade 2.1\nMacroeconomics                                              6 ECTS   grade 2.2\nStatistics II                                               6 ECTS   grade 1.3\nDecision Analysis                                           6 ECTS   grade 2.4\nStatistics I                                                6 ECTS   grade 2.3\nProcess Management                                          6 ECTS   grade 1.7\nBachelor Thesis: Automating invoice matching               12 ECTS   grade 2.4\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 1.7\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Unterlagen.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Dokument (3).pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4170",
+  "received": "2026-11-12",
+  "position": "HR Business Partner",
+  "department": "People",
+  "applicant": {
+   "name": "Inês Carvalho",
+   "citizenship": "Portugal",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Scan.pdf",
+    "text": "CURRICULUM VITAE\nInês Carvalho\nAddress: Hafenstraße 25, 68161 Mannheim\nPhone: +49 151 0000011 · E-mail: inês.carvalho@example.org\nDate of birth: 10.08.1995 · Citizenship: Portugal\n\nPROFILE\nB.A. graduate in Economics with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Nordwind Logistik GmbH\n01/2026 – 07/2026\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nWorking Student, Solvia Energie SE\n11/2024 – 10/2025\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n\nIntern, Velstad Maschinenbau\n11/2023 – 10/2024\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nEDUCATION\nB.A. Economics, Nordheim University, 2020 – 2023\nThesis: \"Forecasting weekly demand with gradient boosting\". Final grade: 1.3.\n\nSKILLS\n- Python (pandas)\n- SAP S/4HANA (basics)\n- Jira\n- Tableau\n- MS Project\n- R\n- Power BI\n\nLANGUAGES\n- Portuguese: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "upload.pdf",
+    "text": "Inês Carvalho\nApplication as HR Business Partner (People)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of HR Business Partner, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Economics at Nordheim University I focused on the topics that matter in this role. At Nordwind Logistik GmbH I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 25 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nInês Carvalho"
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "NORDHEIM UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Inês Carvalho, born on 10.08.1995, has passed the final examination in the degree programme Economics and has been awarded the academic degree\nBachelor of Arts (B.A.)\n\nOverall grade: 1.3 (very good)\nTitle of the thesis: \"Forecasting weekly demand with gradient boosting\"\nECTS credits: 180\n\n23.09.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "Nordheim University – Transcript of Records\nStudent: Inês Carvalho · Matriculation number: 1434281 · Programme: Economics (B.A.)\n\nAccounting                                                  6 ECTS   grade 1.4\nDecision Analysis                                           6 ECTS   grade 1.4\nMachine Learning                                            6 ECTS   grade 1.0\nCorporate Finance                                           6 ECTS   grade 1.4\nProcess Management                                          6 ECTS   grade 1.1\nIntroduction to Business Administration                     6 ECTS   grade 1.8\nBusiness Law                                                6 ECTS   grade 1.0\nInformation Security                                        6 ECTS   grade 1.0\nSeminar                                                     6 ECTS   grade 1.3\nProgramming I                                               6 ECTS   grade 1.3\nSoftware Engineering                                        6 ECTS   grade 1.0\nMicroeconomics                                              6 ECTS   grade 1.8\nEconometrics                                                6 ECTS   grade 1.2\nData Warehousing                                            6 ECTS   grade 1.3\nProgramming II                                              6 ECTS   grade 1.1\nDatabases                                                   6 ECTS   grade 1.3\nMacroeconomics                                              6 ECTS   grade 1.3\nMathematics I                                               6 ECTS   grade 1.6\nMarketing                                                   6 ECTS   grade 1.5\nProject Management                                          6 ECTS   grade 1.0\nCost Accounting                                             6 ECTS   grade 1.0\nStatistics II                                               6 ECTS   grade 1.3\nStatistics I                                                6 ECTS   grade 1.6\nOrganisational Behaviour                                    6 ECTS   grade 1.2\nMathematics II                                              6 ECTS   grade 1.0\nHuman Resource Management                                   6 ECTS   grade 1.0\nEnterprise Systems                                          6 ECTS   grade 1.4\nOperations Management                                       6 ECTS   grade 2.1\nBachelor Thesis: Forecasting weekly demand with gradient boosting 12 ECTS   grade 1.0\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 1.3\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "Solvia Energie SE – Letter of Reference\n\nInês Carvalho, born on 10.08.1995, worked in our company as Working Student from 11/2024 to 10/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Inês familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nInês was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Inês for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4177",
+  "received": "2026-11-13",
+  "position": "Software Engineer Backend",
+  "department": "Engineering",
+  "applicant": {
+   "name": "Nour Hassan",
+   "citizenship": "Egypt",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "CURRICULUM VITAE\nNour Hassan\nAddress: Schillerplatz 30, 68161 Mannheim\nPhone: +49 151 0000012 · E-mail: nour.hassan@example.org\nDate of birth: 13.08.1994 · Citizenship: Egypt\n\nPROFILE\nM.Sc. graduate in Information Systems with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Solvia Energie SE\n11/2025 – 10/2026\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n\nWorking Student, Hollerbach & Kraus AG\n01/2025 – 09/2025\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nEDUCATION\nM.Sc. Information Systems, TU Westerfeld, 2024 – 2026\nThesis: \"Process mining in order-to-cash\". Final grade: 1.4.\n\nSKILLS\n- Power BI\n- SAP S/4HANA (basics)\n- Tableau\n- Jira\n- Python (pandas)\n- R\n\nLANGUAGES\n- Arabic: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "Nour Hassan\nApplication as Software Engineer Backend (Engineering)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Software Engineer Backend, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Information Systems at TU Westerfeld I focused on the topics that matter in this role. At Solvia Energie SE I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 5 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nNour Hassan"
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "TU WESTERFELD\nCERTIFICATE\n\nThis is to certify that Nour Hassan, born on 13.08.1994, has passed the final examination in the degree programme Information Systems and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 1.4 (very good)\nTitle of the thesis: \"Process mining in order-to-cash\"\nECTS credits: 120\n\n22.09.2026\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "TU Westerfeld – Transcript of Records\nStudent: Nour Hassan · Matriculation number: 1835337 · Programme: Information Systems (M.Sc.)\n\nBusiness Law                                                6 ECTS   grade 1.2\nSoftware Engineering                                        6 ECTS   grade 1.2\nProgramming II                                              6 ECTS   grade 1.1\nCorporate Finance                                           6 ECTS   grade 1.7\nOperations Management                                       6 ECTS   grade 1.4\nInformation Security                                        6 ECTS   grade 1.4\nSeminar                                                     6 ECTS   grade 1.8\nStatistics I                                                6 ECTS   grade 1.0\nProcess Management                                          6 ECTS   grade 1.4\nDatabases                                                   6 ECTS   grade 1.9\nMicroeconomics                                              6 ECTS   grade 1.0\nAccounting                                                  6 ECTS   grade 1.0\nEnterprise Systems                                          6 ECTS   grade 1.9\nHuman Resource Management                                   6 ECTS   grade 1.0\nMathematics II                                              6 ECTS   grade 1.5\nMaster Thesis: Process mining in order-to-cash             30 ECTS   grade 1.5\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 1.4\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "SPECIMEN · RESIDENCE PERMIT (Aufenthaltstitel)\nSurname: HASSAN · Given names: NOUR\nDate of birth: 13.08.1994 · Nationality: Egypt\nType of permit: Settlement permit (Niederlassungserlaubnis) under § 9 AufenthG\nRemarks: EMPLOYMENT PERMITTED (Erwerbstätigkeit erlaubt)\nCard valid until: 13.03.2031\nCard number: A70216927\nIssuing authority: Ausländerbehörde Beispielstadt"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "IMG_2291.jpg",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   },
+   "work_permit": {
+    "file_name": "file.pdf",
+    "readable": true
+   }
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4184",
+  "received": "2026-11-02",
+  "position": "Procurement Specialist",
+  "department": "Procurement",
+  "applicant": {
+   "name": "Marie Schneider",
+   "citizenship": "Austria",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "file.pdf",
+    "text": "CURRICULUM VITAE\nMarie Schneider\nAddress: Lindenstraße 73, 69115 Heidelberg\nPhone: +49 151 0000013 · E-mail: marie.schneider@example.org\nDate of birth: 28.11.1995 · Citizenship: Austria\n\nPROFILE\nB.Sc. graduate in Business Administration with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Velstad Maschinenbau\n09/2025 – 06/2026\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n\nWorking Student, Fennwick Systems\n09/2024 – 07/2025\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n\nEDUCATION\nB.Sc. Business Administration, University of Altenbrück, 2022 – 2025\nThesis: \"Automating invoice matching\". Final grade: 1.8.\n\nSKILLS\n- Excel (pivot tables, Power Query)\n- Salesforce\n- Jira\n- MS Project\n- SQL\n- Tableau\n- Python (pandas)\n\nLANGUAGES\n- German: native speaker\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "Marie Schneider\nApplication as Procurement Specialist (Procurement)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Procurement Specialist, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Business Administration at University of Altenbrück I focused on the topics that matter in this role. At Velstad Maschinenbau I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 22 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nMarie Schneider"
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "UNIVERSITY OF ALTENBRÜCK\nCERTIFICATE\n\nThis is to certify that Marie Schneider, born on 28.11.1995, has passed the final examination in the degree programme Business Administration and has been awarded the academic degree\nBachelor of Science (B.Sc.)\n\nOverall grade: 1.8 (good)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 180\n\n18.03.2025\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "University of Altenbrück – Transcript of Records\nStudent: Marie Schneider · Matriculation number: 1851662 · Programme: Business Administration (B.Sc.)\n\nIntroduction to Business Administration                     6 ECTS   grade 1.6\nDatabases                                                   6 ECTS   grade 2.2\nEnterprise Systems                                          6 ECTS   grade 2.3\nCost Accounting                                             6 ECTS   grade 1.6\nMarketing                                                   6 ECTS   grade 1.1\nEconometrics                                                6 ECTS   grade 1.9\nHuman Resource Management                                   6 ECTS   grade 2.3\nInformation Security                                        6 ECTS   grade 1.9\nProgramming I                                               6 ECTS   grade 2.4\nProgramming II                                              6 ECTS   grade 2.0\nCorporate Finance                                           6 ECTS   grade 1.3\nData Warehousing                                            6 ECTS   grade 1.9\nBusiness Law                                                6 ECTS   grade 2.2\nProject Management                                          6 ECTS   grade 1.5\nSoftware Engineering                                        6 ECTS   grade 2.2\nOperations Management                                       6 ECTS   grade 1.4\nDecision Analysis                                           6 ECTS   grade 1.5\nMathematics I                                               6 ECTS   grade 1.9\nProcess Management                                          6 ECTS   grade 1.2\nMathematics II                                              6 ECTS   grade 1.4\nAccounting                                                  6 ECTS   grade 1.4\nMachine Learning                                            6 ECTS   grade 2.2\nMicroeconomics                                              6 ECTS   grade 1.7\nMacroeconomics                                              6 ECTS   grade 2.1\nOrganisational Behaviour                                    6 ECTS   grade 2.2\nStatistics I                                                6 ECTS   grade 1.2\nSeminar                                                     6 ECTS   grade 1.8\nStatistics II                                               6 ECTS   grade 2.2\nBachelor Thesis: Automating invoice matching               12 ECTS   grade 2.1\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 1.8\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "file.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4191",
+  "received": "2026-11-03",
+  "position": "Customer Success Manager",
+  "department": "Customer Service",
+  "applicant": {
+   "name": "Jonas Weber",
+   "citizenship": "Germany",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "CURRICULUM VITAE\nJonas Weber\nAddress: Hafenstraße 111, 50667 Köln\nPhone: +49 151 0000014 · E-mail: jonas.weber@example.org\nDate of birth: 13.03.1995 · Citizenship: Germany\n\nPROFILE\nM.Sc. graduate in Information Systems with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Rheintal Bank\n11/2025 – 07/2026\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n\nWorking Student, Fennwick Systems\n01/2025 – 09/2025\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n\nEDUCATION\nM.Sc. Information Systems, TU Westerfeld, 2024 – 2026\nThesis: \"Automating invoice matching\". Final grade: 1.4.\n\nSKILLS\n- R\n- Excel (pivot tables, Power Query)\n- Jira\n- SQL\n- Salesforce\n- Tableau\n\nLANGUAGES\n- German: native speaker\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "upload.pdf",
+    "text": "Jonas Weber\nApplication as Customer Success Manager (Customer Service)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Customer Success Manager, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Information Systems at TU Westerfeld I focused on the topics that matter in this role. At Rheintal Bank I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 1 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nJonas Weber"
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "Fennwick Systems – Letter of Reference\n\nJonas Weber, born on 13.03.1995, worked in our company as Working Student from 01/2025 to 09/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Jonas familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nJonas was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Jonas for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Bewerbung_neu.pdf",
+    "readable": true
+   },
+   "degree_certificate": null,
+   "work_permit": null
+  },
+  "expected": "missing degree_certificate"
+ },
+ {
+  "id": "APP-2026-4198",
+  "received": "2026-11-04",
+  "position": "Financial Accountant",
+  "department": "Finance",
+  "applicant": {
+   "name": "Linh Nguyen",
+   "citizenship": "Vietnam",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "CURRICULUM VITAE\nLinh Nguyen\nAddress: Schillerplatz 98, 60311 Frankfurt\nPhone: +49 151 0000015 · E-mail: linh.nguyen@example.org\nDate of birth: 13.08.1997 · Citizenship: Vietnam\n\nPROFILE\nM.Sc. graduate in Management with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Nordwind Logistik GmbH\n08/2025 – 06/2026\n- Took part in a project to introduce a new ticket system and trained the key users.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n\nWorking Student, Rheintal Bank\n11/2024 – 05/2025\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n\nIntern, Hollerbach & Kraus AG\n01/2024 – 08/2024\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Took part in a project to introduce a new ticket system and trained the key users.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n\nEDUCATION\nM.Sc. Management, TU Westerfeld, 2024 – 2026\nThesis: \"Forecasting weekly demand with gradient boosting\". Final grade: 2.2.\n\nSKILLS\n- Jira\n- Excel (pivot tables, Power Query)\n- Power BI\n- MS Project\n- Salesforce\n- SQL\n- Python (pandas)\n\nLANGUAGES\n- Vietnamese: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "Linh Nguyen\nApplication as Financial Accountant (Finance)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Financial Accountant, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Management at TU Westerfeld I focused on the topics that matter in this role. At Nordwind Logistik GmbH I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 14 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nLinh Nguyen"
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "TU WESTERFELD\nCERTIFICATE\n\nThis is to certify that Linh Nguyen, born on 13.08.1997, has passed the final examination in the degree programme Management and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 2.2 (good)\nTitle of the thesis: \"Forecasting weekly demand with gradient boosting\"\nECTS credits: 120\n\n11.07.2026\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "TU Westerfeld – Transcript of Records\nStudent: Linh Nguyen · Matriculation number: 1645836 · Programme: Management (M.Sc.)\n\nIntroduction to Business Administration                     6 ECTS   grade 2.7\nMathematics I                                               6 ECTS   grade 2.6\nOperations Management                                       6 ECTS   grade 2.5\nSoftware Engineering                                        6 ECTS   grade 2.4\nBusiness Law                                                6 ECTS   grade 1.6\nCost Accounting                                             6 ECTS   grade 1.9\nCorporate Finance                                           6 ECTS   grade 2.4\nProject Management                                          6 ECTS   grade 1.9\nDatabases                                                   6 ECTS   grade 1.6\nDecision Analysis                                           6 ECTS   grade 2.1\nMathematics II                                              6 ECTS   grade 1.8\nSeminar                                                     6 ECTS   grade 2.8\nInformation Security                                        6 ECTS   grade 1.7\nData Warehousing                                            6 ECTS   grade 1.5\nStatistics I                                                6 ECTS   grade 1.6\nMaster Thesis: Forecasting weekly demand with gradient boosting 30 ECTS   grade 2.7\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 2.2\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "SPECIMEN · RESIDENCE PERMIT (Aufenthaltstitel)\nSurname: NGUYEN · Given names: LINH\nDate of birth: 13.08.1997 · Nationality: Vietnam\nType of permit: Settlement permit (Niederlassungserlaubnis) under § 9 AufenthG\nRemarks: EMPLOYMENT PERMITTED (Erwerbstätigkeit erlaubt)\nCard valid until: 15.01.2029\nCard number: Q56590416\nIssuing authority: Ausländerbehörde Probstadt"
+   },
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "Rheintal Bank – Letter of Reference\n\nLinh Nguyen, born on 13.08.1997, worked in our company as Working Student from 11/2024 to 05/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Linh familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nLinh was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Linh for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "IMG_2291.jpg",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "final_final_v2.pdf",
+    "readable": true
+   },
+   "work_permit": {
+    "file_name": "CamScanner 11-02.pdf",
+    "readable": true
+   }
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4205",
+  "received": "2026-11-05",
+  "position": "IT Support Specialist",
+  "department": "IT",
+  "applicant": {
+   "name": "Léa Moreau",
+   "citizenship": "France",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "file.pdf",
+    "text": "CURRICULUM VITAE\nLéa Moreau\nAddress: Schillerplatz 46, 68161 Mannheim\nPhone: +49 151 0000016 · E-mail: léa.moreau@example.org\nDate of birth: 09.08.1998 · Citizenship: France\n\nPROFILE\nB.A. graduate in Economics with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Rheintal Bank\n11/2025 – 10/2026\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Took part in a project to introduce a new ticket system and trained the key users.\n\nWorking Student, Velstad Maschinenbau\n01/2025 – 10/2025\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nEDUCATION\nB.A. Economics, Rheinau Institute of Technology, 2020 – 2023\nThesis: \"Automating invoice matching\". Final grade: 1.4.\n\nSKILLS\n- Tableau\n- Power BI\n- Jira\n- SAP S/4HANA (basics)\n- Python (pandas)\n\nLANGUAGES\n- French: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "Léa Moreau\nApplication as IT Support Specialist (IT)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of IT Support Specialist, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Economics at Rheinau Institute of Technology I focused on the topics that matter in this role. At Rheintal Bank I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 26 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nLéa Moreau"
+   },
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "RHEINAU INSTITUTE OF TECHNOLOGY\nCERTIFICATE\n\nThis is to certify that Léa Moreau, born on 09.08.1998, has passed the final examination in the degree programme Economics and has been awarded the academic degree\nBachelor of Arts (B.A.)\n\nOverall grade: 1.4 (very good)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 180\n\n10.09.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "scan_0001.pdf",
+    "text": "Rheinau Institute of Technology – Transcript of Records\nStudent: Léa Moreau · Matriculation number: 1804989 · Programme: Economics (B.A.)\n\nProgramming I                                               6 ECTS   grade 1.6\nMarketing                                                   6 ECTS   grade 1.0\nEconometrics                                                6 ECTS   grade 1.5\nHuman Resource Management                                   6 ECTS   grade 1.1\nCorporate Finance                                           6 ECTS   grade 1.0\nMacroeconomics                                              6 ECTS   grade 1.2\nDecision Analysis                                           6 ECTS   grade 1.5\nInformation Security                                        6 ECTS   grade 1.2\nStatistics II                                               6 ECTS   grade 1.7\nOperations Management                                       6 ECTS   grade 1.0\nData Warehousing                                            6 ECTS   grade 1.4\nStatistics I                                                6 ECTS   grade 1.7\nIntroduction to Business Administration                     6 ECTS   grade 1.0\nSoftware Engineering                                        6 ECTS   grade 1.9\nMathematics I                                               6 ECTS   grade 1.6\nEnterprise Systems                                          6 ECTS   grade 1.8\nMathematics II                                              6 ECTS   grade 1.0\nProcess Management                                          6 ECTS   grade 1.0\nBusiness Law                                                6 ECTS   grade 1.6\nDatabases                                                   6 ECTS   grade 1.0\nSeminar                                                     6 ECTS   grade 1.8\nProject Management                                          6 ECTS   grade 1.0\nMicroeconomics                                              6 ECTS   grade 1.7\nProgramming II                                              6 ECTS   grade 1.0\nOrganisational Behaviour                                    6 ECTS   grade 1.9\nAccounting                                                  6 ECTS   grade 1.3\nCost Accounting                                             6 ECTS   grade 1.0\nMachine Learning                                            6 ECTS   grade 1.0\nBachelor Thesis: Automating invoice matching               12 ECTS   grade 1.7\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 1.4\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "Velstad Maschinenbau – Letter of Reference\n\nLéa Moreau, born on 09.08.1998, worked in our company as Working Student from 01/2025 to 10/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Léa familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nLéa was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Léa for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "file.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Unterlagen.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4212",
+  "received": "2026-11-06",
+  "position": "Junior Data Analyst",
+  "department": "Analytics",
+  "applicant": {
+   "name": "Pablo Navarro",
+   "citizenship": "Spain",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "file.pdf",
+    "text": "CURRICULUM VITAE\nPablo Navarro\nAddress: Lindenstraße 54, 70173 Stuttgart\nPhone: +49 151 0000017 · E-mail: pablo.navarro@example.org\nDate of birth: 10.09.1999 · Citizenship: Spain\n\nPROFILE\nB.A. graduate in Economics with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Rheintal Bank\n08/2025 – 06/2026\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n\nWorking Student, Lumen Retail Group\n08/2024 – 07/2025\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n\nEDUCATION\nB.A. Economics, University of Neuhaven, 2020 – 2023\nThesis: \"Acceptance of self-service analytics\". Final grade: 2.2.\n\nSKILLS\n- R\n- MS Project\n- Jira\n- SQL\n- SAP S/4HANA (basics)\n\nLANGUAGES\n- Spanish: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "Pablo Navarro\nApplication as Junior Data Analyst (Analytics)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Junior Data Analyst, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Economics at University of Neuhaven I focused on the topics that matter in this role. At Rheintal Bank I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 6 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nPablo Navarro"
+   },
+   {
+    "file_name": "Dokument (3).pdf",
+    "text": "UNIVERSITY OF NEUHAVEN\nCERTIFICATE\n\nThis is to certify that Pablo Navarro, born on 10.09.1999, has passed the final examination in the degree programme Economics and has been awarded the academic degree\nBachelor of Arts (B.A.)\n\nOverall grade: 2.2 (good)\nTitle of the thesis: \"Acceptance of self-service analytics\"\nECTS credits: 180\n\n16.09.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "University of Neuhaven – Transcript of Records\nStudent: Pablo Navarro · Matriculation number: 1955158 · Programme: Economics (B.A.)\n\nAccounting                                                  6 ECTS   grade 1.8\nOrganisational Behaviour                                    6 ECTS   grade 1.8\nMarketing                                                   6 ECTS   grade 2.7\nStatistics I                                                6 ECTS   grade 2.7\nEnterprise Systems                                          6 ECTS   grade 2.9\nBusiness Law                                                6 ECTS   grade 1.7\nDatabases                                                   6 ECTS   grade 2.7\nSeminar                                                     6 ECTS   grade 1.9\nMathematics II                                              6 ECTS   grade 1.8\nCorporate Finance                                           6 ECTS   grade 2.4\nProject Management                                          6 ECTS   grade 2.7\nMacroeconomics                                              6 ECTS   grade 2.3\nCost Accounting                                             6 ECTS   grade 1.6\nMathematics I                                               6 ECTS   grade 2.0\nInformation Security                                        6 ECTS   grade 2.3\nMicroeconomics                                              6 ECTS   grade 1.6\nProgramming II                                              6 ECTS   grade 2.6\nProcess Management                                          6 ECTS   grade 1.8\nIntroduction to Business Administration                     6 ECTS   grade 2.0\nStatistics II                                               6 ECTS   grade 2.2\nDecision Analysis                                           6 ECTS   grade 2.6\nData Warehousing                                            6 ECTS   grade 1.6\nSoftware Engineering                                        6 ECTS   grade 2.3\nHuman Resource Management                                   6 ECTS   grade 2.1\nProgramming I                                               6 ECTS   grade 1.5\nEconometrics                                                6 ECTS   grade 2.8\nOperations Management                                       6 ECTS   grade 1.8\nMachine Learning                                            6 ECTS   grade 2.0\nBachelor Thesis: Acceptance of self-service analytics      12 ECTS   grade 2.4\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 2.2\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "file.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Dokument (3).pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4219",
+  "received": "2026-11-07",
+  "position": "Working Student Controlling",
+  "department": "Finance",
+  "applicant": {
+   "name": "Oksana Melnyk",
+   "citizenship": "Ukraine",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "CURRICULUM VITAE\nOksana Melnyk\nAddress: Lindenstraße 7, 50667 Köln\nPhone: +49 151 0000018 · E-mail: oksana.melnyk@example.org\nDate of birth: 24.03.1998 · Citizenship: Ukraine\n\nPROFILE\nB.Sc. graduate in Business Informatics with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Bergland Versicherung\n02/2026 – 09/2026\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n\nWorking Student, Rheintal Bank\n06/2025 – 01/2026\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nIntern, Hollerbach & Kraus AG\n07/2024 – 04/2025\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n\nEDUCATION\nB.Sc. Business Informatics, University of Neuhaven, 2023 – 2026\nThesis: \"Automating invoice matching\". Final grade: 2.2.\n\nSKILLS\n- Python (pandas)\n- SQL\n- Jira\n- Salesforce\n- SAP S/4HANA (basics)\n\nLANGUAGES\n- Ukrainian: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "Oksana Melnyk\nApplication as Working Student Controlling (Finance)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Working Student Controlling, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Business Informatics at University of Neuhaven I focused on the topics that matter in this role. At Bergland Versicherung I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 28 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nOksana Melnyk"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "UNIVERSITY OF NEUHAVEN\nCERTIFICATE\n\nThis is to certify that Oksana Melnyk, born on 24.03.1998, has passed the final examination in the degree programme Business Informatics and has been awarded the academic degree\nBachelor of Science (B.Sc.)\n\nOverall grade: 2.2 (good)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 180\n\n16.07.2026\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "University of Neuhaven – Transcript of Records\nStudent: Oksana Melnyk · Matriculation number: 1503029 · Programme: Business Informatics (B.Sc.)\n\nMicroeconomics                                              6 ECTS   grade 2.4\nMathematics II                                              6 ECTS   grade 2.7\nEconometrics                                                6 ECTS   grade 2.2\nOperations Management                                       6 ECTS   grade 1.8\nOrganisational Behaviour                                    6 ECTS   grade 2.1\nMathematics I                                               6 ECTS   grade 1.7\nMacroeconomics                                              6 ECTS   grade 1.7\nEnterprise Systems                                          6 ECTS   grade 2.8\nData Warehousing                                            6 ECTS   grade 2.6\nCost Accounting                                             6 ECTS   grade 2.7\nStatistics II                                               6 ECTS   grade 2.9\nIntroduction to Business Administration                     6 ECTS   grade 2.3\nInformation Security                                        6 ECTS   grade 2.5\nMarketing                                                   6 ECTS   grade 2.7\nStatistics I                                                6 ECTS   grade 1.6\nAccounting                                                  6 ECTS   grade 2.5\nSeminar                                                     6 ECTS   grade 2.9\nMachine Learning                                            6 ECTS   grade 1.8\nDecision Analysis                                           6 ECTS   grade 1.8\nDatabases                                                   6 ECTS   grade 2.4\nProcess Management                                          6 ECTS   grade 1.7\nProgramming I                                               6 ECTS   grade 2.1\nSoftware Engineering                                        6 ECTS   grade 2.5\nProgramming II                                              6 ECTS   grade 1.7\nBusiness Law                                                6 ECTS   grade 1.8\nProject Management                                          6 ECTS   grade 1.9\nCorporate Finance                                           6 ECTS   grade 2.0\nHuman Resource Management                                   6 ECTS   grade 1.7\nBachelor Thesis: Automating invoice matching               12 ECTS   grade 2.8\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 2.2\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "SPECIMEN · RESIDENCE PERMIT (Aufenthaltstitel)\nSurname: MELNYK · Given names: OKSANA\nDate of birth: 24.03.1998 · Nationality: Ukraine\nType of permit: Settlement permit (Niederlassungserlaubnis) under § 9 AufenthG\nRemarks: EMPLOYMENT PERMITTED (Erwerbstätigkeit erlaubt)\nCard valid until: 11.03.2029\nCard number: G42951612\nIssuing authority: Ausländerbehörde Musterstadt"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Bewerbung_neu.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": {
+    "file_name": "IMG_2291.jpg",
+    "readable": true
+   }
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4226",
+  "received": "2026-11-08",
+  "position": "HR Business Partner",
+  "department": "People",
+  "applicant": {
+   "name": "Anna Lewandowska",
+   "citizenship": "Poland",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "Dokument (3).pdf",
+    "text": "CURRICULUM VITAE\nAnna Lewandowska\nAddress: Schillerplatz 2, 69115 Heidelberg\nPhone: +49 151 0000019 · E-mail: anna.lewandowska@example.org\nDate of birth: 08.03.1995 · Citizenship: Poland\n\nPROFILE\nM.Sc. graduate in Information Systems with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Nordwind Logistik GmbH\n08/2025 – 07/2026\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Took part in a project to introduce a new ticket system and trained the key users.\n\nWorking Student, Hollerbach & Kraus AG\n09/2024 – 06/2025\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nIntern, Bergland Versicherung\n12/2023 – 08/2024\n- Built and maintained dashboards for sales and operations in Power BI.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nEDUCATION\nM.Sc. Information Systems, Nordheim University, 2021 – 2023\nThesis: \"Forecasting weekly demand with gradient boosting\". Final grade: 2.4.\n\nSKILLS\n- MS Project\n- Excel (pivot tables, Power Query)\n- Salesforce\n- R\n- Jira\n- Python (pandas)\n\nLANGUAGES\n- Polish: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "Anna Lewandowska\nApplication as HR Business Partner (People)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of HR Business Partner, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Information Systems at Nordheim University I focused on the topics that matter in this role. At Nordwind Logistik GmbH I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 22 January 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nAnna Lewandowska"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "NORDHEIM UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Anna Lewandowska, born on 08.03.1995, has passed the final examination in the degree programme Information Systems and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 2.4 (good)\nTitle of the thesis: \"Forecasting weekly demand with gradient boosting\"\nECTS credits: 120\n\n20.07.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "Nordheim University – Transcript of Records\nStudent: Anna Lewandowska · Matriculation number: 1811510 · Programme: Information Systems (M.Sc.)\n\nOrganisational Behaviour                                    6 ECTS   grade 2.4\nMarketing                                                   6 ECTS   grade 2.4\nMathematics I                                               6 ECTS   grade 1.7\nDatabases                                                   6 ECTS   grade 1.7\nSoftware Engineering                                        6 ECTS   grade 2.6\nDecision Analysis                                           6 ECTS   grade 1.9\nIntroduction to Business Administration                     6 ECTS   grade 2.4\nInformation Security                                        6 ECTS   grade 2.1\nEnterprise Systems                                          6 ECTS   grade 2.4\nMicroeconomics                                              6 ECTS   grade 2.3\nCost Accounting                                             6 ECTS   grade 2.4\nMacroeconomics                                              6 ECTS   grade 2.4\nProject Management                                          6 ECTS   grade 2.7\nEconometrics                                                6 ECTS   grade 2.8\nBusiness Law                                                6 ECTS   grade 2.0\nMaster Thesis: Forecasting weekly demand with gradient boosting 30 ECTS   grade 2.7\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 2.4\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "Unterlagen.pdf",
+    "text": "Hollerbach & Kraus AG – Letter of Reference\n\nAnna Lewandowska, born on 08.03.1995, worked in our company as Working Student from 09/2024 to 06/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Anna familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nAnna was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Anna for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "Dokument (3).pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4233",
+  "received": "2026-11-09",
+  "position": "Software Engineer Backend",
+  "department": "Engineering",
+  "applicant": {
+   "name": "Sofia Ricci",
+   "citizenship": "Italy",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "file.pdf",
+    "text": "CURRICULUM VITAE\nSofia Ricci\nAddress: Hafenstraße 67, 69115 Heidelberg\nPhone: +49 151 0000020 · E-mail: sofia.ricci@example.org\nDate of birth: 27.06.1994 · Citizenship: Italy\n\nPROFILE\nM.Sc. graduate in Information Systems with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Fennwick Systems\n10/2025 – 07/2026\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nWorking Student, Bergland Versicherung\n12/2024 – 08/2025\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n\nEDUCATION\nM.Sc. Information Systems, University of Altenbrück, 2021 – 2023\nThesis: \"Forecasting weekly demand with gradient boosting\". Final grade: 1.7.\n\nSKILLS\n- Excel (pivot tables, Power Query)\n- Tableau\n- Salesforce\n- Power BI\n- SQL\n- SAP S/4HANA (basics)\n- MS Project\n\nLANGUAGES\n- Italian: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "final_final_v2.pdf",
+    "text": "Sofia Ricci\nApplication as Software Engineer Backend (Engineering)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Software Engineer Backend, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Information Systems at University of Altenbrück I focused on the topics that matter in this role. At Fennwick Systems I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 12 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nSofia Ricci"
+   },
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "[The scan could not be read: no text found in the file]"
+   },
+   {
+    "file_name": "Zeugnis.pdf",
+    "text": "University of Altenbrück – Transcript of Records\nStudent: Sofia Ricci · Matriculation number: 1732366 · Programme: Information Systems (M.Sc.)\n\nDatabases                                                   6 ECTS   grade 2.0\nProgramming II                                              6 ECTS   grade 2.2\nCost Accounting                                             6 ECTS   grade 1.2\nMachine Learning                                            6 ECTS   grade 1.4\nHuman Resource Management                                   6 ECTS   grade 1.8\nEconometrics                                                6 ECTS   grade 1.3\nProgramming I                                               6 ECTS   grade 1.5\nData Warehousing                                            6 ECTS   grade 2.3\nBusiness Law                                                6 ECTS   grade 1.3\nSeminar                                                     6 ECTS   grade 1.9\nSoftware Engineering                                        6 ECTS   grade 1.9\nProcess Management                                          6 ECTS   grade 1.2\nStatistics II                                               6 ECTS   grade 1.4\nStatistics I                                                6 ECTS   grade 1.3\nOperations Management                                       6 ECTS   grade 1.6\nMaster Thesis: Forecasting weekly demand with gradient boosting 30 ECTS   grade 2.1\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 1.7\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "file.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "CamScanner 11-02.pdf",
+    "readable": false
+   },
+   "work_permit": null
+  },
+  "expected": "unclear"
+ },
+ {
+  "id": "APP-2026-4240",
+  "received": "2026-11-10",
+  "position": "Procurement Specialist",
+  "department": "Procurement",
+  "applicant": {
+   "name": "Chidi Okafor",
+   "citizenship": "Nigeria",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "upload.pdf",
+    "text": "CURRICULUM VITAE\nChidi Okafor\nAddress: Lindenstraße 35, 69115 Heidelberg\nPhone: +49 151 0000021 · E-mail: chidi.okafor@example.org\nDate of birth: 15.06.1996 · Citizenship: Nigeria\n\nPROFILE\nB.Sc. graduate in Business Administration with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Rheintal Bank\n11/2025 – 10/2026\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n- Built and maintained dashboards for sales and operations in Power BI.\n\nWorking Student, Solvia Energie SE\n02/2025 – 10/2025\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n\nIntern, Hollerbach & Kraus AG\n04/2024 – 11/2024\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Built and maintained dashboards for sales and operations in Power BI.\n\nEDUCATION\nB.Sc. Business Administration, University of Altenbrück, 2021 – 2024\nThesis: \"Automating invoice matching\". Final grade: 1.3.\n\nSKILLS\n- Power BI\n- SAP S/4HANA (basics)\n- SQL\n- R\n- Tableau\n- MS Project\n- Excel (pivot tables, Power Query)\n\nLANGUAGES\n- Igbo: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "Chidi Okafor\nApplication as Procurement Specialist (Procurement)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Procurement Specialist, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Business Administration at University of Altenbrück I focused on the topics that matter in this role. At Rheintal Bank I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 2 February 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nChidi Okafor"
+   },
+   {
+    "file_name": "Scan.pdf",
+    "text": "UNIVERSITY OF ALTENBRÜCK\nCERTIFICATE\n\nThis is to certify that Chidi Okafor, born on 15.06.1996, has passed the final examination in the degree programme Business Administration and has been awarded the academic degree\nBachelor of Science (B.Sc.)\n\nOverall grade: 1.3 (very good)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 180\n\n22.09.2024\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "University of Altenbrück – Transcript of Records\nStudent: Chidi Okafor · Matriculation number: 1930234 · Programme: Business Administration (B.Sc.)\n\nOperations Management                                       6 ECTS   grade 1.0\nBusiness Law                                                6 ECTS   grade 1.0\nMathematics I                                               6 ECTS   grade 1.2\nEconometrics                                                6 ECTS   grade 1.0\nEnterprise Systems                                          6 ECTS   grade 1.0\nStatistics II                                               6 ECTS   grade 1.4\nOrganisational Behaviour                                    6 ECTS   grade 1.1\nMicroeconomics                                              6 ECTS   grade 1.3\nStatistics I                                                6 ECTS   grade 1.9\nHuman Resource Management                                   6 ECTS   grade 1.0\nInformation Security                                        6 ECTS   grade 1.1\nIntroduction to Business Administration                     6 ECTS   grade 1.8\nSeminar                                                     6 ECTS   grade 1.0\nDatabases                                                   6 ECTS   grade 1.3\nProgramming I                                               6 ECTS   grade 1.9\nProgramming II                                              6 ECTS   grade 1.9\nAccounting                                                  6 ECTS   grade 1.8\nMacroeconomics                                              6 ECTS   grade 1.9\nMarketing                                                   6 ECTS   grade 1.0\nProcess Management                                          6 ECTS   grade 1.0\nData Warehousing                                            6 ECTS   grade 1.1\nDecision Analysis                                           6 ECTS   grade 1.4\nCorporate Finance                                           6 ECTS   grade 1.9\nProject Management                                          6 ECTS   grade 1.6\nSoftware Engineering                                        6 ECTS   grade 1.2\nCost Accounting                                             6 ECTS   grade 1.6\nMathematics II                                              6 ECTS   grade 1.9\nMachine Learning                                            6 ECTS   grade 1.0\nBachelor Thesis: Automating invoice matching               12 ECTS   grade 1.0\n\nTotal: 180 ECTS · Overall grade (weighted by ECTS): 1.3\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "SPECIMEN · RESIDENCE PERMIT (Aufenthaltstitel)\nSurname: OKAFOR · Given names: CHIDI\nDate of birth: 15.06.1996 · Nationality: Nigeria\nType of permit: Settlement permit (Niederlassungserlaubnis) under § 9 AufenthG\nRemarks: EMPLOYMENT PERMITTED (Erwerbstätigkeit erlaubt)\nCard valid until: 19.06.2030\nCard number: O82129671\nIssuing authority: Ausländerbehörde Beispielstadt"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "upload.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Scan.pdf",
+    "readable": true
+   },
+   "work_permit": {
+    "file_name": "file.pdf",
+    "readable": true
+   }
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4247",
+  "received": "2026-11-11",
+  "position": "Customer Success Manager",
+  "department": "Customer Service",
+  "applicant": {
+   "name": "Emma Janssen",
+   "citizenship": "Netherlands",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "upload.pdf",
+    "text": "CURRICULUM VITAE\nEmma Janssen\nAddress: Bergweg 120, 50667 Köln\nPhone: +49 151 0000022 · E-mail: emma.janssen@example.org\nDate of birth: 21.01.1999 · Citizenship: Netherlands\n\nPROFILE\nM.Sc. graduate in Information Systems with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Rheintal Bank\n01/2026 – 10/2026\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n\nWorking Student, Solvia Energie SE\n02/2025 – 11/2025\n- Automated a weekly Excel report with Python, which reduced the manual effort from four hours to a few minutes.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n\nEDUCATION\nM.Sc. Information Systems, Hohenfels Technical University, 2024 – 2026\nThesis: \"Automating invoice matching\". Final grade: 2.0.\n\nSKILLS\n- MS Project\n- Jira\n- Power BI\n- SAP S/4HANA (basics)\n- Tableau\n- Excel (pivot tables, Power Query)\n- R\n\nLANGUAGES\n- Dutch: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "file.pdf",
+    "text": "Emma Janssen\nApplication as Customer Success Manager (Customer Service)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Customer Success Manager, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Information Systems at Hohenfels Technical University I focused on the topics that matter in this role. At Rheintal Bank I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 8 March 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nEmma Janssen"
+   },
+   {
+    "file_name": "Dokument (3).pdf",
+    "text": "HOHENFELS TECHNICAL UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Emma Janssen, born on 21.01.1999, has passed the final examination in the degree programme Information Systems and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 2.0 (good)\nTitle of the thesis: \"Automating invoice matching\"\nECTS credits: 120\n\n26.03.2026\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "scan_0001.pdf",
+    "text": "Hohenfels Technical University – Transcript of Records\nStudent: Emma Janssen · Matriculation number: 1840869 · Programme: Information Systems (M.Sc.)\n\nOperations Management                                       6 ECTS   grade 2.1\nHuman Resource Management                                   6 ECTS   grade 2.4\nSoftware Engineering                                        6 ECTS   grade 1.9\nData Warehousing                                            6 ECTS   grade 2.5\nProject Management                                          6 ECTS   grade 2.1\nSeminar                                                     6 ECTS   grade 1.7\nProgramming II                                              6 ECTS   grade 1.8\nStatistics II                                               6 ECTS   grade 1.6\nOrganisational Behaviour                                    6 ECTS   grade 2.4\nEnterprise Systems                                          6 ECTS   grade 2.5\nMicroeconomics                                              6 ECTS   grade 1.3\nEconometrics                                                6 ECTS   grade 2.3\nAccounting                                                  6 ECTS   grade 2.4\nCost Accounting                                             6 ECTS   grade 1.5\nDecision Analysis                                           6 ECTS   grade 1.8\nMaster Thesis: Automating invoice matching                 30 ECTS   grade 1.8\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 2.0\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "Solvia Energie SE – Letter of Reference\n\nEmma Janssen, born on 21.01.1999, worked in our company as Working Student from 02/2025 to 11/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Emma familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nEmma was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Emma for the very good work and wish all the best for the future.\n\nHead of Department"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "upload.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Dokument (3).pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4254",
+  "received": "2026-11-12",
+  "position": "Financial Accountant",
+  "department": "Finance",
+  "applicant": {
+   "name": "Tiago Mendes",
+   "citizenship": "Portugal",
+   "eu_citizen": true
+  },
+  "attachments": [
+   {
+    "file_name": "file.pdf",
+    "text": "CURRICULUM VITAE\nTiago Mendes\nAddress: Lindenstraße 91, 68161 Mannheim\nPhone: +49 151 0000023 · E-mail: tiago.mendes@example.org\nDate of birth: 17.11.1999 · Citizenship: Portugal\n\nPROFILE\nM.Sc. graduate in Management with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Lumen Retail Group\n08/2025 – 06/2026\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Organised onboarding sessions for new colleagues and kept the training material up to date.\n\nWorking Student, Solvia Energie SE\n10/2024 – 06/2025\n- Answered requests from internal customers and documented recurring questions in the knowledge base.\n- Took part in a project to introduce a new ticket system and trained the key users.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Built and maintained dashboards for sales and operations in Power BI.\n\nIntern, Bergland Versicherung\n01/2024 – 08/2024\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Wrote test cases, ran regression tests and tracked defects until they were closed.\n- Maintained master data in SAP and corrected inconsistent records together with the business units.\n\nEDUCATION\nM.Sc. Management, University of Seewald, 2023 – 2025\nThesis: \"Acceptance of self-service analytics\". Final grade: 2.0.\n\nSKILLS\n- Salesforce\n- Python (pandas)\n- Jira\n- R\n- Excel (pivot tables, Power Query)\n\nLANGUAGES\n- Portuguese: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "Tiago Mendes\nApplication as Financial Accountant (Finance)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of Financial Accountant, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Management at University of Seewald I focused on the topics that matter in this role. At Lumen Retail Group I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 21 February 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nTiago Mendes"
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "UNIVERSITY OF SEEWALD\nCERTIFICATE\n\nThis is to certify that Tiago Mendes, born on 17.11.1999, has passed the final examination in the degree programme Management and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 2.0 (good)\nTitle of the thesis: \"Acceptance of self-service analytics\"\nECTS credits: 120\n\n13.09.2025\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "University of Seewald – Transcript of Records\nStudent: Tiago Mendes · Matriculation number: 1441673 · Programme: Management (M.Sc.)\n\nBusiness Law                                                6 ECTS   grade 2.1\nEconometrics                                                6 ECTS   grade 2.6\nAccounting                                                  6 ECTS   grade 2.2\nHuman Resource Management                                   6 ECTS   grade 1.5\nMicroeconomics                                              6 ECTS   grade 2.6\nCorporate Finance                                           6 ECTS   grade 1.6\nMathematics I                                               6 ECTS   grade 2.6\nIntroduction to Business Administration                     6 ECTS   grade 1.8\nCost Accounting                                             6 ECTS   grade 1.7\nProcess Management                                          6 ECTS   grade 1.5\nDecision Analysis                                           6 ECTS   grade 2.3\nMarketing                                                   6 ECTS   grade 2.7\nProject Management                                          6 ECTS   grade 2.2\nProgramming I                                               6 ECTS   grade 1.8\nOperations Management                                       6 ECTS   grade 2.4\nMaster Thesis: Acceptance of self-service analytics        30 ECTS   grade 1.7\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 2.0\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "file.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "doc20261102.pdf",
+    "readable": true
+   },
+   "work_permit": null
+  },
+  "expected": "complete"
+ },
+ {
+  "id": "APP-2026-4261",
+  "received": "2026-11-13",
+  "position": "IT Support Specialist",
+  "department": "IT",
+  "applicant": {
+   "name": "Ji-woo Park",
+   "citizenship": "South Korea",
+   "eu_citizen": false
+  },
+  "attachments": [
+   {
+    "file_name": "CamScanner 11-02.pdf",
+    "text": "CURRICULUM VITAE\nJi-woo Park\nAddress: Schillerplatz 74, 69115 Heidelberg\nPhone: +49 151 0000024 · E-mail: ji-woo.park@example.org\nDate of birth: 22.10.1998 · Citizenship: South Korea\n\nPROFILE\nM.Sc. graduate in Data Science with practical experience from internships and working-student jobs. I like working with data, structure my work carefully and enjoy explaining results to people who are not specialists. I am looking for a role in which I can take on responsibility early and keep learning.\n\nPROFESSIONAL EXPERIENCE\nJunior Analyst, Lumen Retail Group\n11/2025 – 06/2026\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n\nWorking Student, Nordwind Logistik GmbH\n03/2025 – 09/2025\n- Prepared the monthly reporting for the management team and checked the figures against the source systems.\n- Built and maintained dashboards for sales and operations in Power BI.\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n\nIntern, Bergland Versicherung\n05/2024 – 12/2024\n- Supported the month-end closing, including accruals and intercompany reconciliation.\n- Analysed process data to find the causes of delays and presented the results to the department lead.\n- Coordinated suppliers, compared offers and prepared decision papers for purchasing.\n- Prepared customer meetings, wrote the minutes and followed up on open points.\n\nEDUCATION\nM.Sc. Data Science, Nordheim University, 2021 – 2023\nThesis: \"Acceptance of self-service analytics\". Final grade: 1.7.\n\nSKILLS\n- Tableau\n- SQL\n- Excel (pivot tables, Power Query)\n- SAP S/4HANA (basics)\n- MS Project\n\nLANGUAGES\n- Korean: native speaker\n- German: fluent (C1)\n- English: fluent (C1)\n\nVOLUNTEERING AND INTERESTS\nTutor for first-year students (two semesters), member of the student consulting group, long-distance running and photography."
+   },
+   {
+    "file_name": "Bewerbung_neu.pdf",
+    "text": "Ji-woo Park\nApplication as IT Support Specialist (IT)\n\nDear Recruiting Team,\n\nI am writing to apply for the position of IT Support Specialist, which I found on your careers page. The description fits both my studies and what I have done in practice so far, and I would like to explain briefly why I think I am a good match.\n\nDuring my studies in Data Science at Nordheim University I focused on the topics that matter in this role. At Lumen Retail Group I was responsible for recurring analyses and for keeping the underlying data clean, and I learned how important it is to understand the process behind a number before presenting it. I also worked closely with colleagues from other departments, which taught me to ask precise questions and to write things down so that others can follow them later.\n\nWhat attracts me to your company is the combination of an international environment and a team that is small enough to see the result of one's own work. I learn best when I am given real tasks from the first week.\n\nI can start on 20 February 2027, and my salary expectation is in line with the collective agreement for this level. My documents are attached. I would be glad to introduce myself in person.\n\nKind regards,\nJi-woo Park"
+   },
+   {
+    "file_name": "Dokument (3).pdf",
+    "text": "NORDHEIM UNIVERSITY\nCERTIFICATE\n\nThis is to certify that Ji-woo Park, born on 22.10.1998, has passed the final examination in the degree programme Data Science and has been awarded the academic degree\nMaster of Science (M.Sc.)\n\nOverall grade: 1.7 (good)\nTitle of the thesis: \"Acceptance of self-service analytics\"\nECTS credits: 120\n\n03.03.2023\nThe Chair of the Examination Board · The Dean\n(Seal of the university)"
+   },
+   {
+    "file_name": "IMG_2291.jpg",
+    "text": "Nordheim University – Transcript of Records\nStudent: Ji-woo Park · Matriculation number: 1893095 · Programme: Data Science (M.Sc.)\n\nProcess Management                                          6 ECTS   grade 1.3\nCorporate Finance                                           6 ECTS   grade 1.8\nMacroeconomics                                              6 ECTS   grade 1.5\nMarketing                                                   6 ECTS   grade 1.5\nMicroeconomics                                              6 ECTS   grade 2.1\nEnterprise Systems                                          6 ECTS   grade 2.3\nOperations Management                                       6 ECTS   grade 1.7\nEconometrics                                                6 ECTS   grade 1.9\nDatabases                                                   6 ECTS   grade 1.6\nProgramming I                                               6 ECTS   grade 1.2\nSoftware Engineering                                        6 ECTS   grade 2.3\nData Warehousing                                            6 ECTS   grade 2.0\nCost Accounting                                             6 ECTS   grade 1.6\nMathematics II                                              6 ECTS   grade 1.5\nMathematics I                                               6 ECTS   grade 2.2\nMaster Thesis: Acceptance of self-service analytics        30 ECTS   grade 1.7\n\nTotal: 120 ECTS · Overall grade (weighted by ECTS): 1.7\nGrading scale: 1.0–1.5 very good · 1.6–2.5 good · 2.6–3.5 satisfactory · 3.6–4.0 sufficient · 5.0 fail.\nThis transcript was generated electronically and is valid without a signature."
+   },
+   {
+    "file_name": "scan_0001.pdf",
+    "text": "SPECIMEN · RESIDENCE PERMIT (Aufenthaltstitel)\nSurname: PARK · Given names: JI-WOO\nDate of birth: 22.10.1998 · Nationality: South Korea\nType of permit: Settlement permit (Niederlassungserlaubnis) under § 9 AufenthG\nRemarks: EMPLOYMENT PERMITTED (Erwerbstätigkeit erlaubt)\nCard valid until: 12.02.2030\nCard number: N86394301\nIssuing authority: Ausländerbehörde Probstadt"
+   },
+   {
+    "file_name": "doc20261102.pdf",
+    "text": "Nordwind Logistik GmbH – Letter of Reference\n\nJi-woo Park, born on 22.10.1998, worked in our company as Working Student from 03/2025 to 09/2025. The tasks included recurring reports, ad-hoc analyses for the department lead and the maintenance of master data. Ji-woo familiarised themselves with new topics quickly and worked independently and carefully at all times. Results were always delivered on time and in very good quality.\n\nJi-woo was valued by supervisors and colleagues alike for a friendly and reliable manner. Behaviour towards customers was always exemplary. We thank Ji-woo for the very good work and wish all the best for the future.\n\nHR Manager"
+   }
+  ],
+  "form": {
+   "cv": {
+    "file_name": "CamScanner 11-02.pdf",
+    "readable": true
+   },
+   "degree_certificate": {
+    "file_name": "Dokument (3).pdf",
+    "readable": true
+   },
+   "work_permit": {
+    "file_name": "scan_0001.pdf",
+    "readable": true
+   }
+  },
+  "expected": "complete"
+ }
+]

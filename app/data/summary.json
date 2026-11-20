@@ -1,0 +1,65 @@
+{
+  "period": "last_30_days",
+  "period_end": "2026-10-25",
+  "last_import": "2026-10-25T08:00:00+01:00",
+  "runs_30d": 2695,
+  "tokens_30d": 26230000,
+  "tokens_30d_previous": 24260000,
+  "agents_total": 5,
+  "agents_active": 4,
+  "agents_unused": 1,
+  "agents_converted": 0,
+  "agents_uniform": 3,
+  "tokens_uniform_30d": 20080000,
+  "uniform_threshold": 0.8,
+  "providers": [
+    {
+      "id": "copilot_studio",
+      "name": "Copilot Studio"
+    },
+    {
+      "id": "power_automate",
+      "name": "Power Automate"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI"
+    },
+    {
+      "id": "n8n",
+      "name": "n8n"
+    }
+  ],
+  "tokens_by_month": [
+    {
+      "month": "2026-05",
+      "tokens_uniform": 11130000,
+      "tokens_other": 4850000
+    },
+    {
+      "month": "2026-06",
+      "tokens_uniform": 13080000,
+      "tokens_other": 4990000
+    },
+    {
+      "month": "2026-07",
+      "tokens_uniform": 14880000,
+      "tokens_other": 5110000
+    },
+    {
+      "month": "2026-08",
+      "tokens_uniform": 16630000,
+      "tokens_other": 5480000
+    },
+    {
+      "month": "2026-09",
+      "tokens_uniform": 18440000,
+      "tokens_other": 5820000
+    },
+    {
+      "month": "2026-10",
+      "tokens_uniform": 20080000,
+      "tokens_other": 6150000
+    }
+  ]
+}

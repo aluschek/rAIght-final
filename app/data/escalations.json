@@ -1,0 +1,74 @@
+[
+  {
+    "id": "esc_1",
+    "agent_id": "interview_scheduling",
+    "category": "Unusual case",
+    "priority": "high",
+    "text": "A panel of five people across three time zones \u2013 no common slot found.",
+    "time": "2026-10-25T08:12:00+01:00"
+  },
+  {
+    "id": "esc_2",
+    "agent_id": "doc_check",
+    "category": "Missing information",
+    "priority": "high",
+    "text": "A foreign degree certificate could not be classified and needs a person to check it.",
+    "time": "2026-10-24T16:40:00+01:00"
+  },
+  {
+    "id": "esc_3",
+    "agent_id": "offer_letters",
+    "category": "Needs a decision",
+    "priority": "high",
+    "text": "A candidate negotiates a start date that conflicts with the approved offer terms.",
+    "time": "2026-10-24T10:15:00+01:00"
+  },
+  {
+    "id": "esc_4",
+    "agent_id": "app_status",
+    "category": "Exception to a rule",
+    "priority": "medium",
+    "text": "A candidate wants to change their application after the deadline \u2013 no rule covers this.",
+    "time": "2026-10-23T11:05:00+01:00"
+  },
+  {
+    "id": "esc_5",
+    "agent_id": "doc_check",
+    "category": "Missing information",
+    "priority": "medium",
+    "text": "A work permit upload is unreadable and the candidate has not replied.",
+    "time": "2026-10-23T09:30:00+01:00"
+  },
+  {
+    "id": "esc_6",
+    "agent_id": "interview_scheduling",
+    "category": "Unusual case",
+    "priority": "medium",
+    "text": "A candidate asks for an interpreter, but no interpreter slot is configured.",
+    "time": "2026-10-23T08:50:00+01:00"
+  },
+  {
+    "id": "esc_7",
+    "agent_id": "app_status",
+    "category": "Unclear request",
+    "priority": "medium",
+    "text": "A message mixes a status question with a complaint about the process.",
+    "time": "2026-10-22T15:20:00+01:00"
+  },
+  {
+    "id": "esc_8",
+    "agent_id": "interview_scheduling",
+    "category": "Exception to a rule",
+    "priority": "low",
+    "text": "A hiring manager wants a fourth interview round outside the standard process.",
+    "time": "2026-10-22T13:00:00+01:00"
+  },
+  {
+    "id": "esc_9",
+    "agent_id": "doc_check",
+    "category": "Unclear request",
+    "priority": "low",
+    "text": "A candidate sends the CV as a link instead of a file.",
+    "time": "2026-10-21T17:45:00+01:00"
+  }
+]

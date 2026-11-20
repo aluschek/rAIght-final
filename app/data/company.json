@@ -1,0 +1,339 @@
+{
+  "period": "last_30_days",
+  "period_end": "2026-10-25",
+  "owners_total": 24,
+  "agents_total": 125,
+  "agents_uniform": 62,
+  "agents_unused": 13,
+  "tokens_30d": 1164743000,
+  "tokens_30d_previous": 1131204000,
+  "tokens_uniform_30d": 654689000,
+  "uniform_threshold": 0.8,
+  "cost_30d_eur": 8148.78,
+  "cost_uniform_30d_eur": 4671.7,
+  "saving_potential_30d_eur": 4438.11,
+  "co2e_30d_kg": 55.125,
+  "co2e_uniform_30d_kg": 31.675,
+  "tokens_by_month": [
+    {
+      "month": "2026-05",
+      "tokens_uniform": 568046000,
+      "tokens_other": 454635000
+    },
+    {
+      "month": "2026-06",
+      "tokens_uniform": 583161000,
+      "tokens_other": 464762000
+    },
+    {
+      "month": "2026-07",
+      "tokens_uniform": 599236000,
+      "tokens_other": 474834000
+    },
+    {
+      "month": "2026-08",
+      "tokens_uniform": 616439000,
+      "tokens_other": 484963000
+    },
+    {
+      "month": "2026-09",
+      "tokens_uniform": 634977000,
+      "tokens_other": 496227000
+    },
+    {
+      "month": "2026-10",
+      "tokens_uniform": 654689000,
+      "tokens_other": 510054000
+    }
+  ],
+  "owners": [
+    {
+      "owner": "Lena",
+      "unit": "HR · Recruiting",
+      "agents": 5,
+      "uniform_agents": 3,
+      "unused_agents": 1,
+      "tokens_30d": 26230000,
+      "tokens_uniform_30d": 20080000,
+      "tokens_30d_previous": 24260000,
+      "cost_30d_eur": 229.25,
+      "co2e_30d_kg": 1.826
+    },
+    {
+      "owner": "Aylin",
+      "unit": "HR · Payroll",
+      "agents": 6,
+      "uniform_agents": 3,
+      "unused_agents": 0,
+      "tokens_30d": 67773000,
+      "tokens_uniform_30d": 45234000,
+      "tokens_30d_previous": 68014000,
+      "cost_30d_eur": 313.78,
+      "co2e_30d_kg": 4.199
+    },
+    {
+      "owner": "Tomás",
+      "unit": "HR · Learning",
+      "agents": 6,
+      "uniform_agents": 4,
+      "unused_agents": 0,
+      "tokens_30d": 80164000,
+      "tokens_uniform_30d": 43287000,
+      "tokens_30d_previous": 77097000,
+      "cost_30d_eur": 805.94,
+      "co2e_30d_kg": 3.096
+    },
+    {
+      "owner": "Hannah",
+      "unit": "HR · People Services",
+      "agents": 6,
+      "uniform_agents": 2,
+      "unused_agents": 2,
+      "tokens_30d": 29077000,
+      "tokens_uniform_30d": 21236000,
+      "tokens_30d_previous": 29698000,
+      "cost_30d_eur": 239.96,
+      "co2e_30d_kg": 1.09
+    },
+    {
+      "owner": "Marco",
+      "unit": "Finance · Operations",
+      "agents": 6,
+      "uniform_agents": 3,
+      "unused_agents": 2,
+      "tokens_30d": 11926000,
+      "tokens_uniform_30d": 10382000,
+      "tokens_30d_previous": 11854000,
+      "cost_30d_eur": 106.16,
+      "co2e_30d_kg": 0.457
+    },
+    {
+      "owner": "Sofia",
+      "unit": "Finance · Accounts Payable",
+      "agents": 6,
+      "uniform_agents": 4,
+      "unused_agents": 0,
+      "tokens_30d": 64225000,
+      "tokens_uniform_30d": 38732000,
+      "tokens_30d_previous": 62012000,
+      "cost_30d_eur": 984.13,
+      "co2e_30d_kg": 2.581
+    },
+    {
+      "owner": "Daniel",
+      "unit": "Finance · Controlling",
+      "agents": 5,
+      "uniform_agents": 3,
+      "unused_agents": 1,
+      "tokens_30d": 40158000,
+      "tokens_uniform_30d": 37493000,
+      "tokens_30d_previous": 38798000,
+      "cost_30d_eur": 106.67,
+      "co2e_30d_kg": 1.651
+    },
+    {
+      "owner": "Mei",
+      "unit": "Finance · Travel & Expenses",
+      "agents": 5,
+      "uniform_agents": 1,
+      "unused_agents": 1,
+      "tokens_30d": 36504000,
+      "tokens_uniform_30d": 17181000,
+      "tokens_30d_previous": 35316000,
+      "cost_30d_eur": 228.7,
+      "co2e_30d_kg": 1.419
+    },
+    {
+      "owner": "Lukas",
+      "unit": "Finance · Accounts Receivable",
+      "agents": 5,
+      "uniform_agents": 0,
+      "unused_agents": 1,
+      "tokens_30d": 31992000,
+      "tokens_uniform_30d": 0,
+      "tokens_30d_previous": 30405000,
+      "cost_30d_eur": 241.88,
+      "co2e_30d_kg": 2.085
+    },
+    {
+      "owner": "Priya",
+      "unit": "Customer Support",
+      "agents": 5,
+      "uniform_agents": 1,
+      "unused_agents": 1,
+      "tokens_30d": 29957000,
+      "tokens_uniform_30d": 4758000,
+      "tokens_30d_previous": 28629000,
+      "cost_30d_eur": 149.37,
+      "co2e_30d_kg": 1.257
+    },
+    {
+      "owner": "Omar",
+      "unit": "Customer Support · Returns",
+      "agents": 5,
+      "uniform_agents": 4,
+      "unused_agents": 0,
+      "tokens_30d": 69634000,
+      "tokens_uniform_30d": 45691000,
+      "tokens_30d_previous": 69689000,
+      "cost_30d_eur": 267.16,
+      "co2e_30d_kg": 4.135
+    },
+    {
+      "owner": "Clara",
+      "unit": "Customer Support · Billing",
+      "agents": 5,
+      "uniform_agents": 3,
+      "unused_agents": 0,
+      "tokens_30d": 22615000,
+      "tokens_uniform_30d": 16800000,
+      "tokens_30d_previous": 21445000,
+      "cost_30d_eur": 91.66,
+      "co2e_30d_kg": 1.351
+    },
+    {
+      "owner": "Noah",
+      "unit": "Customer Support · Onboarding",
+      "agents": 5,
+      "uniform_agents": 2,
+      "unused_agents": 0,
+      "tokens_30d": 26083000,
+      "tokens_uniform_30d": 14098000,
+      "tokens_30d_previous": 25122000,
+      "cost_30d_eur": 70.62,
+      "co2e_30d_kg": 1.215
+    },
+    {
+      "owner": "Fatima",
+      "unit": "Customer Support · Complaints",
+      "agents": 5,
+      "uniform_agents": 4,
+      "unused_agents": 1,
+      "tokens_30d": 82982000,
+      "tokens_uniform_30d": 82982000,
+      "tokens_30d_previous": 80611000,
+      "cost_30d_eur": 498.37,
+      "co2e_30d_kg": 3.346
+    },
+    {
+      "owner": "Jonas",
+      "unit": "IT · Service Desk",
+      "agents": 5,
+      "uniform_agents": 1,
+      "unused_agents": 0,
+      "tokens_30d": 89140000,
+      "tokens_uniform_30d": 21241000,
+      "tokens_30d_previous": 88178000,
+      "cost_30d_eur": 734.45,
+      "co2e_30d_kg": 5.368
+    },
+    {
+      "owner": "Yuki",
+      "unit": "IT · Access Management",
+      "agents": 5,
+      "uniform_agents": 4,
+      "unused_agents": 0,
+      "tokens_30d": 20643000,
+      "tokens_uniform_30d": 10771000,
+      "tokens_30d_previous": 19992000,
+      "cost_30d_eur": 56.42,
+      "co2e_30d_kg": 0.938
+    },
+    {
+      "owner": "Felix",
+      "unit": "IT · Workplace",
+      "agents": 5,
+      "uniform_agents": 3,
+      "unused_agents": 0,
+      "tokens_30d": 62284000,
+      "tokens_uniform_30d": 26058000,
+      "tokens_30d_previous": 60291000,
+      "cost_30d_eur": 427.76,
+      "co2e_30d_kg": 2.423
+    },
+    {
+      "owner": "Amira",
+      "unit": "IT · Applications",
+      "agents": 5,
+      "uniform_agents": 4,
+      "unused_agents": 1,
+      "tokens_30d": 43378000,
+      "tokens_uniform_30d": 43378000,
+      "tokens_30d_previous": 42186000,
+      "cost_30d_eur": 129.41,
+      "co2e_30d_kg": 1.491
+    },
+    {
+      "owner": "Elena",
+      "unit": "Sales · Inside Sales",
+      "agents": 5,
+      "uniform_agents": 3,
+      "unused_agents": 0,
+      "tokens_30d": 65902000,
+      "tokens_uniform_30d": 57124000,
+      "tokens_30d_previous": 64525000,
+      "cost_30d_eur": 542.63,
+      "co2e_30d_kg": 2.839
+    },
+    {
+      "owner": "David",
+      "unit": "Sales · Operations",
+      "agents": 5,
+      "uniform_agents": 3,
+      "unused_agents": 0,
+      "tokens_30d": 35744000,
+      "tokens_uniform_30d": 30082000,
+      "tokens_30d_previous": 34250000,
+      "cost_30d_eur": 166.67,
+      "co2e_30d_kg": 1.628
+    },
+    {
+      "owner": "Nina",
+      "unit": "Sales · Partner Management",
+      "agents": 5,
+      "uniform_agents": 2,
+      "unused_agents": 1,
+      "tokens_30d": 46215000,
+      "tokens_uniform_30d": 12783000,
+      "tokens_30d_previous": 43103000,
+      "cost_30d_eur": 258.95,
+      "co2e_30d_kg": 1.783
+    },
+    {
+      "owner": "Raj",
+      "unit": "Procurement",
+      "agents": 5,
+      "uniform_agents": 1,
+      "unused_agents": 1,
+      "tokens_30d": 65233000,
+      "tokens_uniform_30d": 11672000,
+      "tokens_30d_previous": 64927000,
+      "cost_30d_eur": 588.08,
+      "co2e_30d_kg": 2.534
+    },
+    {
+      "owner": "Carla",
+      "unit": "Logistics · Dispatch",
+      "agents": 5,
+      "uniform_agents": 2,
+      "unused_agents": 0,
+      "tokens_30d": 56633000,
+      "tokens_uniform_30d": 5023000,
+      "tokens_30d_previous": 54811000,
+      "cost_30d_eur": 588.38,
+      "co2e_30d_kg": 2.282
+    },
+    {
+      "owner": "Ben",
+      "unit": "Procurement · Supplier Management",
+      "agents": 5,
+      "uniform_agents": 2,
+      "unused_agents": 0,
+      "tokens_30d": 60251000,
+      "tokens_uniform_30d": 38603000,
+      "tokens_30d_previous": 55991000,
+      "cost_30d_eur": 322.38,
+      "co2e_30d_kg": 4.131
+    }
+  ]
+}

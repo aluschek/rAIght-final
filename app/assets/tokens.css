@@ -1,0 +1,131 @@
+/* rAIght design tokens – SAP Fiori "Horizon" look (neutral Fiori-style, no SAP branding); source: docs/technical/design-system.md.
+   Components use the semantic tokens only; never hard-code hex values elsewhere. */
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap");
+
+/* The Fiori typeface "72" (Apache-2.0, package @sap-theming/theming-base-content). If it cannot load, Arial and the system font take over. */
+@font-face { font-family: "72"; font-weight: 300; font-style: normal; font-display: swap; src: url("https://cdn.jsdelivr.net/npm/@sap-theming/theming-base-content@11.36.5/content/Base/baseLib/baseTheme/fonts/72-Light.woff2") format("woff2"); }
+@font-face { font-family: "72"; font-weight: 400; font-style: normal; font-display: swap; src: url("https://cdn.jsdelivr.net/npm/@sap-theming/theming-base-content@11.36.5/content/Base/baseLib/baseTheme/fonts/72-Regular.woff2") format("woff2"); }
+@font-face { font-family: "72"; font-weight: 600; font-style: normal; font-display: swap; src: url("https://cdn.jsdelivr.net/npm/@sap-theming/theming-base-content@11.36.5/content/Base/baseLib/baseTheme/fonts/72-Semibold.woff2") format("woff2"); }
+@font-face { font-family: "72"; font-weight: 700; font-style: normal; font-display: swap; src: url("https://cdn.jsdelivr.net/npm/@sap-theming/theming-base-content@11.36.5/content/Base/baseLib/baseTheme/fonts/72-Bold.woff2") format("woff2"); }
+
+:root {
+  /* palette – a deep enterprise blue on neutral cool greys; green, red and amber are kept for status only */
+  --color-ink:        #131E29;
+  --color-white:      #FFFFFF;
+  --color-canvas:     #F5F6F7;
+  --color-subtle:     #FAFAFA;
+  --color-sunken:     #EFF1F2;
+  --color-line-100:   #E5E5E5;
+  --color-line-200:   #D9D9D9;
+  --color-axis:       #BCC3CA;
+  --color-ink-soft:   #556B82;
+  --color-ink-muted:  #556B82;   /* secondary text, 6.1 : 1 on white, 5.5 : 1 on the canvas */
+  --color-blue-700:   #0070F2;
+  --color-blue-800:   #0064D9;
+  --color-blue-600:   #0070F2;
+  --color-blue-50:    #EBF8FF;
+  --color-blue-300:   #89D1FF;
+  --color-navy-900:   #0D2E50;
+  --color-navy-700:   #0057D2;
+  --color-green-700:  #256F3A;
+  --color-green-50:   #F5FAE5;
+  --color-red-500:    #F53232;
+  --color-red-700:    #AA0808;
+  --color-red-50:     #FFEAF4;
+  --color-red-200:    #FFC2DE;
+  --color-amber-600:  #B44F00;
+  --color-amber-800:  #B44F00;
+  --color-amber-50:   #FFF8D6;
+  --color-orange-400: #F2A55B;
+  --color-teal-500:   #1F9A7A;
+  --color-clay-600:   #B5603A;
+  --color-plum-500:   #A9507A;
+
+  /* semantic */
+  --color-bg:                     var(--color-canvas);
+  --color-surface:                var(--color-white);
+  --color-surface-subtle:         var(--color-subtle);
+  --color-surface-tint:           var(--color-blue-50);
+  --color-surface-neutral:        var(--color-sunken);
+  --color-surface-inverse:        var(--color-navy-900);
+  --color-surface-inverse-raised: var(--color-navy-700);
+  --color-text:                   var(--color-ink);
+  --color-text-soft:              var(--color-ink-soft);
+  --color-text-muted:             var(--color-ink-muted);
+  --color-text-inverse:           var(--color-white);
+  --color-text-inverse-muted:     #A9B6CF;
+  --color-text-inverse-soft:      #C9D3E6;
+  --color-primary:                var(--color-blue-700);
+  --color-primary-dark:           var(--color-blue-800);
+  --color-on-primary:             var(--color-white);
+  --color-accent:                 var(--color-blue-300);   /* highlight on dark panels */
+  --color-on-accent:              var(--color-ink);
+  --color-border:                 var(--color-line-100);
+  --color-border-strong:          var(--color-line-200);
+  --color-track:                  var(--color-sunken);
+  --color-good:                   var(--color-green-700);
+  --color-good-surface:           var(--color-green-50);
+  --color-danger:                 var(--color-red-500);
+  --color-danger-text:            var(--color-red-700);
+  --color-danger-surface:         var(--color-red-50);
+  --color-danger-border:          var(--color-red-200);
+  --color-warning-text:           var(--color-amber-600);
+  --color-warning-surface:        var(--color-amber-50);
+  --color-delta-surface:          var(--color-amber-50);
+  --color-delta-text:             var(--color-amber-800);
+
+  /* data series – colour carries meaning */
+  --color-data-tokens:   var(--color-orange-400);
+  --color-data-uniform:  var(--color-red-500);
+  --color-data-healthy:  var(--color-green-700);
+  --color-data-other:    var(--color-blue-600);
+  --color-data-inactive: var(--color-ink-muted);
+  --color-grid:          var(--color-sunken);
+  --color-axis-line:     var(--color-axis);
+  --color-series-1:      var(--color-blue-600);
+  --color-series-2:      var(--color-clay-600);
+  --color-series-3:      var(--color-teal-500);
+  --color-series-4:      var(--color-plum-500);
+
+  /* type */
+  --font-ui:   "72", "72full", Arial, Helvetica, system-ui, sans-serif;  /* Fiori font stack; falls back to system fonts */
+  --font-logo: "IBM Plex Sans", Arial, sans-serif;  /* capital I has serifs, so "AI" is not read as "Al" */
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+
+  /* shape */
+  --radius-bar:  2px;
+  --radius-sm:   4px;
+  --radius-md:   8px;
+  --radius-card: 16px;
+  --radius-pill: 8px;
+  --shadow-card: 0 0 2px rgba(34, 53, 72, 0.2), 0 2px 4px rgba(34, 53, 72, 0.2);   /* Horizon card: hairline ring + soft lift */
+  --panel-gradient: var(--color-navy-900);   /* flat: no gradients */
+  --shellbar-bg: #FFFFFF;          /* Horizon shell bar: light */
+  --shellbar-text: #1D2D3E;
+  --shellbar-hover: rgba(0, 112, 242, 0.08);
+  --shellbar-height: 44px;
+  --shadow-pop: 0 0 0 1px rgba(34, 53, 72, 0.48), 0 2px 8px rgba(34, 53, 72, 0.3);
+  --color-avatar-bg:   #D1EFFF;   /* sapAvatar_6 (Accent 6, blue) */
+  --color-avatar-text: #0057D2;
+  --color-track-inverse: rgba(255, 255, 255, 0.22);
+  --color-panel-inverse: rgba(255, 255, 255, 0.08);
+  --shadow-segment: 0 1px 2px rgba(16, 28, 52, 0.12);
+
+  /* Horizon values taken from SAP's theming-base-content (sap_horizon/css_variables.css) */
+  --color-field-border:   #556B81;   /* sapField_BorderColor */
+  --color-button-border:  #BCC3CA;   /* sapButton_BorderColor */
+  --color-link:           #0064D9;   /* sapLinkColor */
+  --color-focus:          #0032A5;   /* sapContent_FocusColor */
+  --color-hover:          #EAECEE;   /* sapList_Hover_Background */
+  --color-header-line:    #D9D9D9;   /* sapPageHeader_BorderColor */
+  --color-good-border:    #30914C;   /* sapSuccessBorderColor */
+  --color-warning-border: #DD6100;   /* sapWarningBorderColor */
+  --color-danger-fill:    #FFD6E9;   /* sapButton_Reject_Background */
+  --radius-field:         4px;       /* sapField_BorderCornerRadius */
+  --shadow-header:        0 2px 2px rgba(34, 53, 72, 0.05), inset 0 -1px 0 #D9D9D9;   /* sapContent_HeaderShadow */
+
+  /* layout */
+  --sidebar-width: 256px;
+  --content-max:   1360px;
+}

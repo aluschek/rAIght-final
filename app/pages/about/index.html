@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="about.css">
+</head>
+<body data-page="about">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">About</h1>
+          <p class="page-sub">Scope, goals and version history of rAIght.</p>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content">
+        <section class="about-hero" id="hero" aria-label="rAIght"></section>
+        <section class="row">
+          <div class="card about-card" id="scope"></div>
+          <div class="card about-card" id="goals"></div>
+        </section>
+        <section class="card about-card" id="versions"></section>
+        <section class="card about-card settings" aria-labelledby="settings-title">
+          <h2 id="settings-title"></h2>
+          <details class="acc" id="demo-data">
+            <summary>
+              <div><b>Demo data</b><span>Start the demo again from the beginning</span></div>
+              <svg class="chev" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" focusable="false"><path d="M6.273 3.17a.75.75 0 0 1 1.056.103l3.5 4.247a.75.75 0 0 1 0 .955l-3.5 4.252a.75.75 0 0 1-1.158-.954l3.107-3.775-3.107-3.771a.75.75 0 0 1 .102-1.056Z"></path></svg>
+            </summary>
+            <div class="acc-body" id="reset"></div>
+          </details>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="about.js"></script>
+</body>
+</html>

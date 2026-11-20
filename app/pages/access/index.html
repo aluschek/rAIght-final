@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Access · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="access.css">
+</head>
+<body data-page="access" data-roles="admin">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">Access</h1>
+          <p class="page-sub" id="access-sub">Who can use rAIght and what their role lets them do.</p>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content" id="content">
+        <section class="card access-page" id="access-card">
+          <div class="access-body" id="access-body"></div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="access.js"></script>
+</body>
+</html>

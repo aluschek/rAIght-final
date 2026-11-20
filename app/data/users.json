@@ -1,0 +1,5 @@
+[
+  { "email": "lena@customer.demo", "name": "Lena", "role": "process_owner", "you": true },
+  { "email": "cio.office@customer.demo", "name": "CIO office", "role": "cio_office" },
+  { "email": "platform.admin@customer.demo", "name": "Platform admin", "role": "admin" }
+]

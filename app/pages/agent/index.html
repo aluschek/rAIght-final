@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Agent · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="agent.css">
+</head>
+<body data-page="dashboard" data-roles="process_owner">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <a class="back-link" href="../dashboard/">‹ Dashboard</a>
+          <h1 class="page-title"><span id="agent-name">Agent</span><span id="title-chips"></span></h1>
+          <p class="page-sub" id="agent-sub">One automation: what it uses, how often it repeats itself, and what rAIght suggests.</p>
+        </div>
+        <div class="topbar-actions" id="actions"></div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content">
+        <section class="row" aria-label="Verdict">
+          <aside class="card card-dark col-main" id="suggestion"></aside>
+          <div class="card col-side">
+            <div class="card-body" id="reason"></div>
+          </div>
+        </section>
+
+        <section class="kpis" aria-label="Key figures" id="kpis"></section>
+
+        <section class="row">
+          <div class="card" style="flex: 1 1 100%">
+            <div class="card-body">
+              <div class="card-head-plain">
+                <div>
+                  <h2 class="card-title">Runs per day</h2>
+                  <p class="caption">Last 30 days</p>
+                </div>
+                <div class="legend">
+                  <span><i class="swatch fill-uniform" id="legend-main"></i>Most frequent path (estimated per day)</span>
+                  <span><i class="swatch fill-other"></i>Other paths</span>
+                </div>
+              </div>
+              <div id="day-chart"></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="row">
+          <div class="card" style="flex: 1 1 100%">
+            <div class="card-head">
+              <div>
+                <h2 class="card-title">Path breakdown</h2>
+                <p class="caption">Each path = the ordered tool calls of one run</p>
+              </div>
+            </div>
+            <div id="paths"></div>
+          </div>
+        </section>
+
+        <section class="row" id="latest-runs" hidden>
+          <div class="card" style="flex: 1 1 100%">
+            <div class="card-head">
+              <div>
+                <h2 class="card-title">Latest runs</h2>
+                <p class="caption">Newest first, with what each run cost at list price</p>
+              </div>
+            </div>
+            <div id="runs"></div>
+          </div>
+        </section>
+
+      </main>
+    </div>
+  </div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="agent.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plan an automation · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="plan.css">
+</head>
+<body data-page="plan" data-roles="process_owner">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">Plan an automation</h1>
+          <p class="page-sub">Describe an automation and find the lowest step that does the job.</p>
+        </div>
+        <div class="topbar-actions">
+          <a class="btn btn-outline" href="../learn/">Open guidelines</a>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content">
+        <ol class="stepper" id="stepper" aria-label="Progress"></ol>
+        <div class="plan-grid">
+          <section class="card wizard" id="wizard" aria-live="polite"></section>
+          <aside id="side" aria-label="The six steps"></aside>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="../../assets/flow.js"></script>
+  <script src="plan.js"></script>
+</body>
+</html>

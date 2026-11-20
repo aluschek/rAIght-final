@@ -1,0 +1,30 @@
+/* P4 Inventory – page-specific layout only; shared styles are in assets/app.css. */
+.mix { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; }
+.mix-cell { padding: 14px 14px 12px; border-radius: var(--radius-md); background: var(--color-surface-subtle); border: 1px solid var(--color-border); }
+.mix-cell b { display: block; font-size: 26px; font-weight: 800; letter-spacing: -0.02em; }
+.mix-cell span { font-size: 12px; color: var(--color-text-muted); }
+.mix-cell.has { background: var(--color-surface-tint); border-color: transparent; }
+.mix-cell.has.is-agent { background: var(--color-danger-surface); }
+.mix-cell.has.is-agent b { color: var(--color-danger-text); }
+@media (max-width: 760px) { .mix { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
+.filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.select {
+  height: 34px; padding: 0 28px 0 12px; font: inherit; font-size: 13px; color: var(--color-text);
+  background-color: var(--color-surface); border: 1px solid var(--color-field-border); border-radius: var(--radius-field);
+  appearance: none; -webkit-appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, var(--color-text-muted) 50%), linear-gradient(135deg, var(--color-text-muted) 50%, transparent 50%);
+  background-position: calc(100% - 15px) 14px, calc(100% - 10px) 14px; background-size: 5px 5px; background-repeat: no-repeat;
+}
+.select.is-set { border-color: var(--color-primary); background-color: var(--color-surface-tint); color: var(--color-primary-dark); font-weight: 600; }
+.link-btn { background: none; border: 0; padding: 0 4px; font-size: 13px; font-weight: 600; color: var(--color-primary); }
+.link-btn:hover { text-decoration: underline; }
+
+.cell-main { display: flex; align-items: center; gap: 12px; min-width: 260px; }
+.cell-main strong a { color: var(--color-text); }
+.cell-main strong a:hover { color: var(--color-primary-dark); }
+.cell-main small { display: block; color: var(--color-text-muted); font-size: 12px; max-width: 340px; }
+.why { max-width: 320px; font-size: 13px; }
+.why.none { color: var(--color-text-muted); }
+.chip-agent { background: var(--color-danger-surface); color: var(--color-danger-text); }
+.new-tag { margin-left: 6px; }

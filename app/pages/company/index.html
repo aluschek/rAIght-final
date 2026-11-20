@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="../dashboard/dashboard.css">
+  <link rel="stylesheet" href="company.css">
+</head>
+<body data-page="company" data-roles="cio_office">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">Dashboard</h1>
+          <p class="page-sub">Token use across the company, and where repeating agents sit.</p>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content dash">
+        <div class="titlerow">
+          <div class="welcome">
+            <h2 class="greeting" id="greeting"></h2>
+            <p id="headline"></p>
+          </div>
+          <div class="filters"><span class="period">Last 30 days</span></div>
+        </div>
+
+        <section class="kpis" id="kpis" aria-label="Key figures"></section>
+
+        <div class="grid">
+          <section class="card c7" aria-labelledby="usage-title">
+            <div class="card-h">
+              <div>
+                <h3 id="usage-title">Token usage</h3>
+                <p class="sub" id="usage-sub">Millions of tokens per month, all owners</p>
+              </div>
+            </div>
+            <div class="legend">
+              <span><i class="sw line" style="background: var(--color-data-uniform)"></i>Uniform agents</span>
+              <span><i class="sw line" style="background: var(--color-series-1)"></i>Other agents</span>
+            </div>
+            <div class="linechart" id="usage-chart"></div>
+            <div class="flowsum" id="flowsum"></div>
+          </section>
+
+          <section class="card c5 share-card" aria-labelledby="owners-title">
+            <div class="card-h">
+              <div>
+                <h3 id="owners-title">By owner</h3>
+                <p class="sub" id="owners-sub">Tokens in the last 30 days, split into uniform and other agents</p>
+              </div>
+            </div>
+            <div class="hbars" id="owners-chart"></div>
+            <div class="legend" style="margin-top: 4px">
+              <span><i class="sw line" style="background: var(--color-data-uniform)"></i>Uniform agents</span>
+              <span><i class="sw line" style="background: var(--color-series-1)"></i>Other agents</span>
+            </div>
+          </section>
+
+          <section class="card c12" aria-labelledby="look-title">
+            <div class="card-h">
+              <div>
+                <h3 id="look-title">Where to look first</h3>
+                <p class="sub">Owners ranked by tokens in uniform agents · each could save the most by moving them to a lower step</p>
+              </div>
+            </div>
+            <ul class="list" id="ranking"></ul>
+            <p class="sub foot">Aggregated figures only: individual runs and agent details stay with the process owners.</p>
+          </section>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <div class="tip" id="tip" hidden></div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="company.js"></script>
+</body>
+</html>

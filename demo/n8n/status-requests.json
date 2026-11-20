@@ -1,0 +1,341 @@
+{
+ "faq": "Q: How long does the application process take? A: Usually four to six weeks from the application to a decision.\nQ: Can I add documents later? A: Yes, reply to your confirmation e-mail and attach the files; we add them to your application.\nQ: Do you reimburse travel costs for interviews? A: Yes, second-class train tickets or 0.30 EUR per kilometre by car, after the interview and with receipts.\nQ: Can I apply for more than one position? A: Yes. Each application is reviewed separately.\nQ: Who can I contact about accessibility needs for the interview? A: Tell your recruiter; we will arrange what you need.\nQ: Do you give feedback after a rejection? A: Short feedback by phone on request, within four weeks after the decision.",
+ "requests": [
+  {
+   "id": "REQ-2026-900",
+   "application_id": "APP-2026-4100",
+   "candidate": "Hannah Becker",
+   "position": "Junior Data Analyst",
+   "message": "Hello, I applied for the position of Junior Data Analyst about two weeks ago and have not heard back yet. Could you tell me where my application stands? Thank you very much and kind regards, Hannah Becker",
+   "status": {
+    "stage": "Offer in preparation",
+    "detail": "The offer is with the works council.",
+    "next_step": "You will receive it by e-mail in about one week.",
+    "last_update": "2026-11-05"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-903",
+   "application_id": "APP-2026-4107",
+   "candidate": "Lukas Hoffmann",
+   "position": "Working Student Controlling",
+   "message": "Hello, I applied for the position of Working Student Controlling about two weeks ago and have not heard back yet. Could you tell me where my application stands? Thank you very much and kind regards, Lukas Hoffmann",
+   "status": {
+    "stage": "Offer in preparation",
+    "detail": "The offer is with the works council.",
+    "next_step": "You will receive it by e-mail in about one week.",
+    "last_update": "2026-11-06"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-906",
+   "application_id": "APP-2026-4114",
+   "candidate": "Camille Laurent",
+   "position": "HR Business Partner",
+   "message": "Hello, I applied for the position of HR Business Partner about two weeks ago and have not heard back yet. Could you tell me where my application stands? Thank you very much and kind regards, Camille Laurent",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-07"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-909",
+   "application_id": "APP-2026-4121",
+   "candidate": "Mateo Fernández",
+   "position": "Software Engineer Backend",
+   "message": "Good morning, I had my first interview for the Software Engineer Backend role last week and was told I would hear back soon. May I ask what the next step is and when I can expect it? Many thanks, Mateo Fernández",
+   "status": {
+    "stage": "Second interview scheduled",
+    "detail": "Your interview is confirmed.",
+    "next_step": "You will receive the invitation with the time and the names of the interviewers by e-mail.",
+    "last_update": "2026-11-08"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-912",
+   "application_id": "APP-2026-4128",
+   "candidate": "Giulia Romano",
+   "position": "Procurement Specialist",
+   "message": "Good morning, I had my first interview for the Procurement Specialist role last week and was told I would hear back soon. May I ask what the next step is and when I can expect it? Many thanks, Giulia Romano",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-09"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-915",
+   "application_id": "APP-2026-4135",
+   "candidate": "Jakub Kowalski",
+   "position": "Customer Success Manager",
+   "message": "Hello, I applied for the position of Customer Success Manager about two weeks ago and have not heard back yet. Could you tell me where my application stands? Thank you very much and kind regards, Jakub Kowalski",
+   "status": {
+    "stage": "First interview completed",
+    "detail": "The interviewers are comparing notes.",
+    "next_step": "We will contact you about a second interview within five working days.",
+    "last_update": "2026-11-10"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-918",
+   "application_id": "APP-2026-4142",
+   "candidate": "Sanne de Vries",
+   "position": "Financial Accountant",
+   "message": "Hello, I applied for the position of Financial Accountant about two weeks ago and have not heard back yet. Could you tell me where my application stands? Thank you very much and kind regards, Sanne de Vries",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-11"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-921",
+   "application_id": "APP-2026-4149",
+   "candidate": "Inês Carvalho",
+   "position": "IT Support Specialist",
+   "message": "Hello, could you please confirm that my application APP-2026-4149 has arrived and is being reviewed? I did not receive a confirmation e-mail. Kind regards, Inês Carvalho",
+   "status": {
+    "stage": "First interview completed",
+    "detail": "The interviewers are comparing notes.",
+    "next_step": "We will contact you about a second interview within five working days.",
+    "last_update": "2026-11-12"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-924",
+   "application_id": "APP-2026-4156",
+   "candidate": "Aarav Sharma",
+   "position": "Junior Data Analyst",
+   "message": "Good morning, I had my first interview for the Junior Data Analyst role last week and was told I would hear back soon. May I ask what the next step is and when I can expect it? Many thanks, Aarav Sharma",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-13"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-927",
+   "application_id": "APP-2026-4163",
+   "candidate": "Emily Carter",
+   "position": "Working Student Controlling",
+   "message": "Hello, I applied as Working Student Controlling and have my second interview in Mannheim next week. Do you reimburse the travel costs, and what do I need to hand in? And is there any news on the schedule? Thank you, Emily Carter",
+   "status": {
+    "stage": "In review by the department",
+    "detail": "The hiring manager is reading the applications.",
+    "next_step": "We expect feedback by the end of next week.",
+    "last_update": "2026-11-14"
+   },
+   "expected": "reply with status and FAQ"
+  },
+  {
+   "id": "REQ-2026-930",
+   "application_id": "APP-2026-4170",
+   "candidate": "Rafael Oliveira",
+   "position": "HR Business Partner",
+   "message": "Hello, could you please confirm that my application APP-2026-4170 has arrived and is being reviewed? I did not receive a confirmation e-mail. Kind regards, Rafael Oliveira",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-05"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-933",
+   "application_id": "APP-2026-4177",
+   "candidate": "Nour Hassan",
+   "position": "Software Engineer Backend",
+   "message": "Hello, could you please confirm that my application APP-2026-4177 has arrived and is being reviewed? I did not receive a confirmation e-mail. Kind regards, Nour Hassan",
+   "status": {
+    "stage": "First interview completed",
+    "detail": "The interviewers are comparing notes.",
+    "next_step": "We will contact you about a second interview within five working days.",
+    "last_update": "2026-11-06"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-936",
+   "application_id": "APP-2026-4184",
+   "candidate": "Linh Nguyen",
+   "position": "Procurement Specialist",
+   "message": "Dear Recruiting Team, I am writing to ask about the status of my application as Procurement Specialist (APP-2026-4184). I have another offer on the table and would like to know how long your process will take. Best regards, Linh Nguyen",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-07"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-939",
+   "application_id": "APP-2026-4191",
+   "candidate": "Oksana Melnyk",
+   "position": "Customer Success Manager",
+   "message": "Hello, could you please confirm that my application APP-2026-4191 has arrived and is being reviewed? I did not receive a confirmation e-mail. Kind regards, Oksana Melnyk",
+   "status": {
+    "stage": "First interview completed",
+    "detail": "The interviewers are comparing notes.",
+    "next_step": "We will contact you about a second interview within five working days.",
+    "last_update": "2026-11-08"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-942",
+   "application_id": "APP-2026-4198",
+   "candidate": "Chidi Okafor",
+   "position": "Financial Accountant",
+   "message": "Good morning, I had my first interview for the Financial Accountant role last week and was told I would hear back soon. May I ask what the next step is and when I can expect it? Many thanks, Chidi Okafor",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-09"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-945",
+   "application_id": "APP-2026-4205",
+   "candidate": "Ji-woo Park",
+   "position": "IT Support Specialist",
+   "message": "Hi, quick question: is there any news on my application for IT Support Specialist? I sent everything on 2026-11-05. Thanks! Ji-woo",
+   "status": {
+    "stage": "Second interview scheduled",
+    "detail": "Your interview is confirmed.",
+    "next_step": "You will receive the invitation with the time and the names of the interviewers by e-mail.",
+    "last_update": "2026-11-10"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-948",
+   "application_id": "APP-2026-4212",
+   "candidate": "Marie Schneider",
+   "position": "Junior Data Analyst",
+   "message": "Hello, I applied for the position of Junior Data Analyst about two weeks ago and have not heard back yet. Could you tell me where my application stands? Thank you very much and kind regards, Marie Schneider",
+   "status": {
+    "stage": "Application received",
+    "detail": "The documents are being checked.",
+    "next_step": "You will hear from us within ten working days.",
+    "last_update": "2026-11-11"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-951",
+   "application_id": "APP-2026-4219",
+   "candidate": "Jonas Weber",
+   "position": "Working Student Controlling",
+   "message": "Dear Recruiting Team, I would like to withdraw my application for Working Student Controlling, as I have accepted another offer. In addition, I ask you to delete my personal data and to confirm the deletion in writing. Kind regards, Jonas Weber",
+   "status": {
+    "stage": "First interview completed",
+    "detail": "The interviewers are comparing notes.",
+    "next_step": "We will contact you about a second interview within five working days.",
+    "last_update": "2026-11-12"
+   },
+   "expected": "hand over"
+  },
+  {
+   "id": "REQ-2026-954",
+   "application_id": "APP-2026-4226",
+   "candidate": "Léa Moreau",
+   "position": "HR Business Partner",
+   "message": "Hi, quick question: is there any news on my application for HR Business Partner? I sent everything on 2026-11-08. Thanks! Léa",
+   "status": {
+    "stage": "First interview completed",
+    "detail": "The interviewers are comparing notes.",
+    "next_step": "We will contact you about a second interview within five working days.",
+    "last_update": "2026-11-13"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-957",
+   "application_id": "APP-2026-4233",
+   "candidate": "Pablo Navarro",
+   "position": "Software Engineer Backend",
+   "message": "Hi, quick question: is there any news on my application for Software Engineer Backend? I sent everything on 2026-11-09. Thanks! Pablo",
+   "status": {
+    "stage": "Offer in preparation",
+    "detail": "The offer is with the works council.",
+    "next_step": "You will receive it by e-mail in about one week.",
+    "last_update": "2026-11-14"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-960",
+   "application_id": "APP-2026-4240",
+   "candidate": "Priya Iyer",
+   "position": "Procurement Specialist",
+   "message": "Hi, quick question: is there any news on my application for Procurement Specialist? I sent everything on 2026-11-10. Thanks! Priya",
+   "status": {
+    "stage": "Offer in preparation",
+    "detail": "The offer is with the works council.",
+    "next_step": "You will receive it by e-mail in about one week.",
+    "last_update": "2026-11-05"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-963",
+   "application_id": "APP-2026-4247",
+   "candidate": "Emre Demir",
+   "position": "Customer Success Manager",
+   "message": "Dear Recruiting Team, I am writing to ask about the status of my application as Customer Success Manager (APP-2026-4247). I have another offer on the table and would like to know how long your process will take. Best regards, Emre Demir",
+   "status": {
+    "stage": "In review by the department",
+    "detail": "The hiring manager is reading the applications.",
+    "next_step": "We expect feedback by the end of next week.",
+    "last_update": "2026-11-06"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-966",
+   "application_id": "APP-2026-4254",
+   "candidate": "Anna Lewandowska",
+   "position": "Financial Accountant",
+   "message": "Hello, I applied for the position of Financial Accountant about two weeks ago and have not heard back yet. Could you tell me where my application stands? Thank you very much and kind regards, Anna Lewandowska",
+   "status": {
+    "stage": "Second interview scheduled",
+    "detail": "Your interview is confirmed.",
+    "next_step": "You will receive the invitation with the time and the names of the interviewers by e-mail.",
+    "last_update": "2026-11-07"
+   },
+   "expected": "reply with status"
+  },
+  {
+   "id": "REQ-2026-969",
+   "application_id": "APP-2026-4261",
+   "candidate": "Thiago Costa",
+   "position": "IT Support Specialist",
+   "message": "Dear Sir or Madam, I would like to follow up on my application for IT Support Specialist in your IT department. Has a decision been made already? I remain very interested. Sincerely, Thiago Costa",
+   "status": {
+    "stage": "First interview completed",
+    "detail": "The interviewers are comparing notes.",
+    "next_step": "We will contact you about a second interview within five working days.",
+    "last_update": "2026-11-08"
+   },
+   "expected": "reply with status"
+  }
+ ]
+}

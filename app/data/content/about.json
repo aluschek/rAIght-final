@@ -1,0 +1,89 @@
+{
+  "name": "rAIght",
+  "tagline": "Not more AI, but rAIght.",
+  "description": "Helps process owners build every automation on the lowest step of the automation ladder that does the job, and turn agents that keep repeating themselves into workflows.",
+  "version": "v1.1.0",
+  "scope": [
+    "Any team that builds its own automations. The sample agents come from HR recruiting, our first pilot",
+    "Automations and agents built with external providers: Copilot Studio, Power Automate, OpenAI, n8n",
+    "Token use and repeated paths, read from the run logs",
+    "Ladder and triage guidance for choosing the step",
+    "An inventory of automations with the reason for every agent",
+    "Cases an agent could not handle, routed to the process owner"
+  ],
+  "goals": [
+    "Every automation sits on the lowest step that does the job",
+    "Process owners see what their agents really consume",
+    "Agents that behave like workflows are found and converted",
+    "Unused agents are retired",
+    "Token cost and CO₂ stop growing with every new agent"
+  ],
+  "versions": [
+    {
+      "version": "v1.1.0",
+      "date": "12 Nov 2026",
+      "changes": [
+        "Both dashboards greet you by name and show the one-sentence summary underneath, with the filters on the right.",
+        "A new set of icons across the menu, the cards and the Assistant.",
+        "The Assistant has a panel for MCP servers and skills. It shows three example servers (Jira, Internal Knowledge Hub, n8n) with a way to connect another one, and three skills you can switch on and off. The servers are a preview: nothing is really connected.",
+        "Colours, text, fields, buttons and cards now follow one set of design values, with a lighter top bar and a clearer text font. People are shown with a blue avatar.",
+        "Gradients and decorative colours are gone, so the pages look calmer."
+      ]
+    },
+    {
+      "version": "v1.0.0",
+      "date": "11 Nov 2026",
+      "changes": [
+        "A new look: breadcrumbs above each page title, clearer buttons, tags, tables and form fields. It works on small screens too."
+      ]
+    },
+    {
+      "version": "v0.4",
+      "date": "28 Oct 2026",
+      "changes": [
+        "Each role has its own home page and menu. The person menu in the top bar switches between process owner, CIO office and Admin.",
+        "The CIO office sees a company dashboard with figures per owner. It is read-only and shows no single agent or run.",
+        "The Admin gets a Providers page to connect or disconnect providers and an Access page for people and roles. Access moved out of About.",
+        "The Start page is gone. The dashboard is the first page.",
+        "A floating Assistant on the dashboard answers questions from the sample data. It calls no AI model.",
+        "Guidelines are rewritten for colleagues who are not technical: what rAIght does, how it works in three steps, and a short list of words.",
+        "New logo mark and favicon, and a deeper blue. Green, red and amber now mean status only.",
+        "Plan an automation shows a sketch of the step you picked, with the steps that cost tokens marked.",
+        "Plan an automation has a second column with the six steps and starter examples, and shows progress as three rising steps. Guidelines show a sketch of each step next to its description.",
+        "You can remove an automation you saved yourself, after a second click to confirm. The sample agents cannot be removed.",
+        "Examples, placeholders and hints come from different teams, not only from recruiting.",
+        "The Assistant can suggest the ladder step for a task you describe and offer an n8n draft file. It uses rules, not AI, and sends nothing to n8n."
+      ]
+    },
+    {
+      "version": "v0.3",
+      "date": "27 Oct 2026",
+      "changes": [
+        "New look with a white sidebar and one blue accent.",
+        "The menu follows the work: Dashboard, Plan an automation, Automations and Escalations, with Guidelines and About at the bottom.",
+        "Every page has a one-line description under its title.",
+        "Escalations show priority tiles and a matrix of cases per agent and category.",
+        "Plan an automation is a three-step wizard that saves to Automations.",
+        "About has scope, goals and version history, plus a reset for the demo data.",
+        "On narrow screens the sidebar collapses into a menu."
+      ]
+    },
+    {
+      "version": "v0.2",
+      "date": "25 Oct 2026",
+      "changes": [
+        "App shell with the dashboard, agent detail and the ladder and triage guidelines.",
+        "Sample data for five agents, summary figures and training texts.",
+        "The clickable demo is published as a static website."
+      ]
+    },
+    {
+      "version": "v0.1",
+      "date": "23 Oct 2026",
+      "changes": [
+        "Scope fixed: a clickable demo on sample data with no backend.",
+        "The demo script and the design system set the boundary for the build."
+      ]
+    }
+  ]
+}

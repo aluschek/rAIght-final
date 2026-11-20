@@ -1,0 +1,83 @@
+{
+  "headline": "Use the simplest automation that does the job.",
+  "intro": "Not every task needs AI. Simple tools are cheaper, faster and easier to trust. rAIght helps you pick one, and flags AI that keeps repeating itself.",
+  "how_title": "How it works",
+  "how": [
+    {
+      "title": "Choose",
+      "text": "Answer three questions. rAIght suggests the simplest tool.",
+      "cta": "Plan an automation",
+      "page": "plan",
+      "needs": "plan"
+    },
+    {
+      "title": "Watch",
+      "text": "See what each automation uses and which ones repeat themselves.",
+      "cta": "Open the dashboard",
+      "page": "dashboard"
+    },
+    {
+      "title": "Improve",
+      "text": "Swap a repeating AI for a simple workflow, or switch off what nobody uses.",
+      "cta": "See what needs attention",
+      "page": "dashboard"
+    }
+  ],
+  "ladder_title": "From simple to smart",
+  "ladder_intro": "Six ways to automate a task. Start at the bottom: each step up costs more.",
+  "steps": {
+    "rule": {
+      "plain": "A yes-or-no check."
+    },
+    "workflow": {
+      "plain": "A fixed to-do list that runs by itself."
+    },
+    "classic_ml": {
+      "plain": "A program that learned from past data."
+    },
+    "genai_call": {
+      "plain": "One question to an AI that reads or writes text."
+    },
+    "agent": {
+      "plain": "An AI that plans its own steps and uses tools."
+    },
+    "multi_agent": {
+      "plain": "Several agents handing work to each other."
+    }
+  },
+  "terms_title": "Words you will see",
+  "terms": [
+    {
+      "term": "Token",
+      "meaning": "What AI usage is measured in, roughly a short word. More tokens, more cost and energy."
+    },
+    {
+      "term": "Ladder step",
+      "meaning": "How smart an automation is, from 1 (rule) to 6 (team of agents). Lower is cheaper."
+    },
+    {
+      "term": "Agent",
+      "meaning": "An AI that plans its own steps. Powerful, but the most expensive."
+    },
+    {
+      "term": "Uniform agent",
+      "meaning": "An agent that takes the same steps almost every time. A workflow would do it for less."
+    },
+    {
+      "term": "Same path",
+      "meaning": "Share of runs with identical steps. Above 80 %, an agent is flagged as uniform."
+    },
+    {
+      "term": "Escalation",
+      "meaning": "A case an automation could not handle, passed to a person."
+    },
+    {
+      "term": "Run log",
+      "meaning": "The automatic record of each run. rAIght reads it, and no extra AI checks it."
+    },
+    {
+      "term": "Provider",
+      "meaning": "The tool an automation is built in, such as Copilot Studio or n8n."
+    }
+  ]
+}

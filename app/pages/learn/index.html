@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guidelines · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="learn.css">
+</head>
+<body data-page="learn">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title" id="page-title">Guidelines</h1>
+          <p class="page-sub">What rAIght does and how to use it, in two minutes.</p>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content">
+        <section class="guide-hero" id="hero" aria-label="What rAIght does"></section>
+
+        <section aria-labelledby="how-title">
+          <h2 class="section-title" id="how-title"></h2>
+          <ol class="how" id="how"></ol>
+        </section>
+
+        <section class="row" aria-labelledby="ladder-title">
+          <div class="card ladder-card">
+            <div class="card-head">
+              <div>
+                <h2 class="card-title" id="ladder-title">Automation ladder</h2>
+                <p class="caption" id="ladder-intro">Start at the bottom. Compute, cost and CO₂ rise with every step.</p>
+              </div>
+              <span class="footnote" id="ladder-note"></span>
+            </div>
+            <ol class="ladder" id="ladder"></ol>
+          </div>
+          <aside class="card step-card" aria-live="polite">
+            <div class="card-body" id="step-detail"></div>
+          </aside>
+        </section>
+
+        <section class="card" aria-labelledby="triage-title">
+          <div class="card-head">
+            <div>
+              <h2 class="card-title" id="triage-title">Which step fits?</h2>
+              <p class="caption" id="triage-intro"></p>
+            </div>
+            <a class="btn btn-sm btn-secondary" id="try-btn" href="../plan/">Try it on your automation ›</a>
+          </div>
+          <div class="triage" id="triage"></div>
+          <p class="footnote" id="triage-footer" style="padding: 0 20px 16px"></p>
+        </section>
+
+        <section class="card" aria-labelledby="terms-title">
+          <div class="card-head">
+            <h2 class="card-title" id="terms-title">Words you will see</h2>
+          </div>
+          <dl class="terms" id="terms"></dl>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="../../assets/flow.js"></script>
+  <script src="learn.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+/* Company dashboard (CIO office) – page-specific additions; layout, KPI cards and charts reuse ../dashboard/dashboard.css. */
+.owner-bar { display: flex; height: 100%; border-radius: 999px; overflow: hidden; }
+.owner-bar span { display: block; height: 100%; }
+.hbar-head small { display: block; font-size: 12px; font-weight: 400; color: var(--color-text-muted); }
+.hbar-head .tok { font-variant-numeric: tabular-nums; font-weight: 700; }
+.rank-no { width: 36px; height: 36px; border-radius: 50%; flex: none; display: grid; place-items: center; font-weight: 800; background: var(--color-danger-surface); color: var(--color-danger-text); }
+.li.low .rank-no { background: var(--color-surface-neutral); color: var(--color-text-muted); }

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Escalations · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="escalations.css">
+</head>
+<body data-page="escalations" data-roles="process_owner">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">Escalations</h1>
+          <p class="page-sub">Cases an agent could not handle that are waiting for you.</p>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content">
+        <div class="toolbar">
+          <div class="segmented" role="group" aria-label="View">
+            <button type="button" id="v-overview" aria-pressed="true">Overview</button>
+            <button type="button" id="v-cases" aria-pressed="false">Cases</button>
+          </div>
+          <label class="pill-sel" id="w-agent"><span class="visually-hidden">Agent</span><select id="f-agent"></select></label>
+          <label class="pill-sel" id="w-category"><span class="visually-hidden">Category</span><select id="f-category"></select></label>
+          <label class="pill-sel" id="w-priority"><span class="visually-hidden">Priority</span><select id="f-priority"></select></label>
+          <label class="pill-sel" id="w-status"><span class="visually-hidden">Status</span><select id="f-status"></select></label>
+          <button class="btn btn-outline" type="button" id="f-reset">Reset</button>
+        </div>
+
+        <section class="tiles" id="tiles" aria-label="Summary"></section>
+
+        <section class="card" id="matrix-card" aria-labelledby="matrix-title">
+          <div class="card-head">
+            <div>
+              <h2 class="card-title" id="matrix-title">Cases per agent</h2>
+              <p class="caption">By category · click a number to see those cases</p>
+            </div>
+          </div>
+          <div class="table-wrap" id="matrix"></div>
+        </section>
+
+        <section class="card" aria-labelledby="cases-title">
+          <div class="card-head">
+            <div>
+              <h2 class="card-title" id="cases-title">Cases</h2>
+              <p class="caption" id="cases-sub" aria-live="polite"></p>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table class="table" style="min-width: 900px">
+              <thead>
+                <tr>
+                  <th scope="col">Agent</th>
+                  <th scope="col">Case</th>
+                  <th scope="col">Category</th>
+                  <th scope="col">Priority</th>
+                  <th scope="col">Received</th>
+                  <th scope="col"><span class="visually-hidden">Action</span></th>
+                </tr>
+              </thead>
+              <tbody id="cases"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="escalations.js"></script>
+</body>
+</html>

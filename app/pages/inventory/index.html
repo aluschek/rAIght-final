@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Automations · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="inventory.css">
+</head>
+<body data-page="inventory" data-roles="process_owner">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">Automations</h1>
+          <p class="page-sub">Every automation with its provider, ladder step and the reason it is an agent.</p>
+        </div>
+        <div class="topbar-actions">
+          <label class="search">
+            <svg aria-hidden="true" width="15" height="15" viewBox="0 0 16 16" fill="currentColor" focusable="false"><path d="M7 1a6 6 0 0 1 4.738 9.678l3.042 3.042a.75.75 0 1 1-1.06 1.06l-3.042-3.042A6 6 0 1 1 7 1Zm0 1.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9Z"></path></svg>
+            <span class="visually-hidden">Find an automation</span>
+            <input type="search" id="search" placeholder="Find an automation…">
+          </label>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content">
+        <section class="card" aria-labelledby="mix-title">
+          <div class="card-body">
+            <div>
+              <h2 class="card-title" id="mix-title">Where your automations sit on the ladder</h2>
+              <p class="caption" id="mix-sub"></p>
+            </div>
+            <div class="mix" id="mix"></div>
+          </div>
+        </section>
+
+        <section class="card" aria-labelledby="list-title">
+          <div class="card-head">
+            <div>
+              <h2 class="card-title" id="list-title">All automations</h2>
+              <p class="caption" id="count" aria-live="polite"></p>
+            </div>
+            <div class="filters">
+              <label><span class="visually-hidden">Provider</span><select class="select" id="f-provider"></select></label>
+              <label><span class="visually-hidden">Ladder step</span><select class="select" id="f-step"></select></label>
+              <button class="link-btn" type="button" id="f-clear" hidden>Clear filters</button>
+              <a class="btn btn-sm btn-primary" id="plan-btn" href="../plan/">Plan an automation ›</a>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table class="table" style="min-width: 920px">
+              <thead>
+                <tr>
+                  <th scope="col">Automation</th>
+                  <th scope="col">Built with</th>
+                  <th scope="col">Ladder step</th>
+                  <th scope="col">Why it is an agent</th>
+                  <th scope="col">Status</th>
+                  <th scope="col"><span class="visually-hidden">Action</span></th>
+                </tr>
+              </thead>
+              <tbody id="rows"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="inventory.js"></script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="dashboard.css">
+</head>
+<body data-page="dashboard" data-roles="process_owner">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">Dashboard</h1>
+          <p class="page-sub">Where your tokens go, which agents repeat themselves, and what to change.</p>
+        </div>
+        <div class="topbar-actions">
+          <label class="search">
+            <svg aria-hidden="true" width="15" height="15" viewBox="0 0 16 16" fill="currentColor" focusable="false"><path d="M7 1a6 6 0 0 1 4.738 9.678l3.042 3.042a.75.75 0 1 1-1.06 1.06l-3.042-3.042A6 6 0 1 1 7 1Zm0 1.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9Z"></path></svg>
+            <span class="visually-hidden">Find an agent</span>
+            <input type="search" id="search" placeholder="Find an agent…">
+          </label>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content dash">
+        <div class="titlerow">
+          <div class="welcome">
+            <h2 class="greeting" id="greeting"></h2>
+            <p id="headline"></p>
+          </div>
+          <div class="filters">
+            <span class="period">Last 30 days</span>
+            <label class="pill-sel" id="w-provider"><span class="visually-hidden">Provider</span><select id="f-provider"></select></label>
+            <label class="pill-sel" id="w-status"><span class="visually-hidden">Status</span><select id="f-status"></select></label>
+            <button class="btn btn-sm btn-outline" type="button" id="f-clear" hidden>Clear filters</button>
+          </div>
+        </div>
+
+        <section class="kpis" id="kpis" aria-label="Key figures"></section>
+
+        <div class="grid">
+          <section class="card c12" aria-labelledby="att-title">
+            <div class="card-h">
+              <div>
+                <h3 id="att-title">Needs attention</h3>
+                <p class="sub">Highest cost in the last 30 days first · rAIght suggests the lowest ladder step that does the job</p>
+              </div>
+            </div>
+            <ul class="list" id="attention"></ul>
+            <div class="reofoot" id="att-foot"></div>
+          </section>
+
+          <section class="card c7" aria-labelledby="usage-title">
+              <div class="card-h">
+                <div>
+                  <h3 id="usage-title">Token usage</h3>
+                  <p class="sub" id="usage-sub">Millions of tokens per month</p>
+                </div>
+              </div>
+              <div class="legend">
+                <span><i class="sw line" style="background: var(--color-data-uniform)"></i>Uniform agents</span>
+                <span><i class="sw line" style="background: var(--color-series-1)"></i>Other agents</span>
+              </div>
+              <div class="linechart" id="usage-chart"></div>
+              <div class="flowsum" id="flowsum"></div>
+          </section>
+
+          <section class="card c5 share-card" aria-labelledby="share-title">
+              <div class="card-h">
+                <div>
+                  <h3 id="share-title">Same-path share</h3>
+                  <p class="sub">Share of runs with identical steps · last 30 days</p>
+                </div>
+              </div>
+              <div class="hbars" id="share-chart"></div>
+              <p class="sub" id="threshold-note"></p>
+          </section>
+
+          <section class="card c12" aria-labelledby="agents-title">
+            <div class="card-h">
+              <div>
+                <h3 id="agents-title">All agents</h3>
+                <p class="sub" id="result-count" aria-live="polite"></p>
+              </div>
+              <label class="pill-sel"><span class="visually-hidden">Sort by</span><select id="f-sort"></select></label>
+            </div>
+            <div class="tw">
+              <table>
+                <thead>
+                  <tr>
+                    <th scope="col">Agent</th>
+                    <th scope="col">Status</th>
+                    <th scope="col" class="r">Runs · 30 d</th>
+                    <th scope="col">Tokens · 30 d</th>
+                    <th scope="col" class="r">Cost · 30 d</th>
+                    <th scope="col">6-month trend</th>
+                    <th scope="col" class="r">Same path</th>
+                    <th scope="col">rAIght suggests</th>
+                  </tr>
+                </thead>
+                <tbody id="agent-rows"></tbody>
+              </table>
+            </div>
+            <p class="sub foot">Tokens straight from the run logs · cost at the providers' list prices · “Same path” = share of runs with identical steps · no extra AI checks the AI</p>
+          </section>
+
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+  <div class="tip" id="tip" hidden></div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="dashboard.js"></script>
+  <script src="../../assets/flow.js"></script>
+  <script src="n8n-draft.js"></script>
+  <script src="assistant.js"></script>
+</body>
+</html>

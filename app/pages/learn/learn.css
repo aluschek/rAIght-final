@@ -1,0 +1,73 @@
+/* P2 Guidelines – page-specific layout only; shared styles are in assets/app.css. */
+.ladder-card { flex: 3 1 460px; }
+.step-card { flex: 2 1 340px; }
+
+.ladder { list-style: none; margin: 0; padding: 0; }
+.ladder-step {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px;
+  width: 100%; padding: 12px 20px; text-align: left;
+  background: var(--color-surface); border: 0; border-bottom: 1px solid var(--color-border);
+}
+.ladder li:last-child .ladder-step { border-bottom: 0; border-radius: 0 0 var(--radius-card) var(--radius-card); }
+.ladder-step:hover { background: var(--color-surface-subtle); }
+.ladder-step[aria-pressed="true"] { background: var(--color-surface-tint); box-shadow: inset 3px 0 0 var(--color-primary); }
+.ladder-text { flex: 1 1 200px; min-width: 0; display: flex; flex-direction: column; }
+.ladder-name { font-weight: 600; color: var(--color-text); }
+.ladder-what { font-size: 12px; color: var(--color-text-muted); }
+
+.step-badge {
+  flex: none; display: inline-grid; place-items: center; width: 28px; height: 28px;
+  border-radius: var(--radius-sm); font-weight: 700; font-size: 13px;
+  background: var(--color-surface-inverse); color: var(--color-text-inverse);
+}
+.step-badge-low { background: var(--color-surface-tint); color: var(--color-primary-dark); }
+.step-badge-lg { width: 32px; height: 32px; }
+
+.cost { display: flex; gap: 3px; }
+.cost i { width: 16px; height: 8px; border-radius: 1px; background: var(--color-track); }
+.cost i.on { background: var(--color-data-tokens); }
+
+.step-head { display: flex; align-items: center; gap: 10px; }
+.step-head h3 { font-size: 18px; font-weight: 700; }
+.step-head .chip { margin-left: auto; }
+.step-facts { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0; font-size: 13px; }
+.step-facts dt { color: var(--color-text-muted); }
+.step-facts dd { margin: 0; }
+.example { display: flex; flex-direction: column; gap: 8px; padding: 14px 16px; background: var(--color-bg); border-radius: var(--radius-md); font-size: 13px; }
+.example .overline { color: var(--color-primary); }
+.example p { margin: 0; }
+.example strong { font-weight: 600; }
+
+/* Triage: one column per question, outcome under the question, "No" leads to the next column. */
+.triage { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; padding: 20px; }
+.triage-col { display: flex; flex-direction: column; gap: 8px; }
+.question { display: flex; flex-direction: column; gap: 6px; padding: 14px 16px; border: 1px solid var(--color-primary); border-radius: var(--radius-card); background: var(--color-surface); }
+.question-head { display: flex; align-items: center; gap: 8px; }
+.marker { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; flex: none; background: var(--color-primary); color: var(--color-on-primary); font-size: 12px; font-weight: 700; }
+.question-text { font-weight: 600; }
+.answer-label { font-size: 12px; font-weight: 600; color: var(--color-text-muted); padding-left: 4px; }
+.outcome { display: flex; flex-direction: column; gap: 2px; padding: 10px 14px; border-radius: var(--radius-md); background: var(--color-surface-tint); color: var(--color-primary); }
+.outcome-agent { background: var(--color-danger-surface); color: var(--color-danger-text); }
+.outcome-title { font-weight: 600; }
+.outcome-steps { font-size: 12px; color: var(--color-text-muted); }
+.next { font-size: 12px; font-weight: 600; color: var(--color-text-muted); padding-left: 4px; }
+
+/* ---------- Plain-language introduction ---------- */
+.section-title { font-size: 15px; font-weight: 700; margin: 0 0 12px; }
+.guide-hero {
+  padding: 28px 32px; border-radius: var(--radius-card); border: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+.guide-hero h2 { font-size: 26px; font-weight: 800; letter-spacing: -0.02em; max-width: 24ch; }
+.guide-hero p { margin: 10px 0 0; max-width: 62ch; font-size: 15px; color: var(--color-text-soft); }
+
+.how { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; }
+.how-step { padding: 20px; gap: 8px; align-items: flex-start; }
+.how-step h3 { font-size: 17px; font-weight: 800; }
+.how-step p { margin: 0 0 6px; color: var(--color-text-soft); flex: 1; }
+.how-no { width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; font-weight: 800; font-size: 13px; background: var(--color-primary); color: var(--color-on-primary); }
+
+
+.terms { margin: 0; padding: 4px 20px 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px 28px; }
+.term dt { font-weight: 700; margin-bottom: 2px; }
+.term dd { margin: 0; color: var(--color-text-soft); font-size: 13.5px; }

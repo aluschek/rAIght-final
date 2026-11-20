@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Providers · rAIght</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="../../assets/tokens.css">
+  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="providers.css">
+</head>
+<body data-page="providers" data-roles="admin">
+  <div class="shell">
+    <nav id="sidebar"></nav>
+    <div class="main">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1 class="page-title">Providers</h1>
+          <p class="page-sub">The platforms rAIght reads run logs from.</p>
+        </div>
+      </header>
+      <div id="source"></div>
+
+      <main class="content" id="content">
+        <section class="card" id="providers-card" aria-labelledby="providers-title">
+          <div class="card-head">
+            <div>
+              <h2 class="card-title" id="providers-title">Connected providers</h2>
+              <p class="caption" id="providers-sub" aria-live="polite"></p>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table class="table" style="min-width: 720px">
+              <thead>
+                <tr>
+                  <th scope="col">Provider</th>
+                  <th scope="col">Status</th>
+                  <th scope="col">Last run-log import</th>
+                  <th scope="col" class="right">Automations</th>
+                  <th scope="col"><span class="visually-hidden">Action</span></th>
+                </tr>
+              </thead>
+              <tbody id="rows"></tbody>
+            </table>
+          </div>
+          <p class="footnote" style="padding: 12px 20px">Disconnecting a provider stops new run logs from it. The figures already imported stay.</p>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script src="../../assets/data.js"></script>
+  <script src="../../assets/shell.js"></script>
+  <script src="providers.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+  "title": "Triage cheat sheet",
+  "intro": "Answer three questions before you build. The answer is your ladder step.",
+  "note": "There is no approval gate: you decide. The dashboard shows later whether an agent behaves like a workflow.",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "text": "Are the steps always the same?",
+      "hint": "Same order, only the data changes.",
+      "yes": { "outcome": "Rule or workflow", "ladder_steps": ["rule", "workflow"], "is_agent": false },
+      "no": { "next": "q2" }
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "text": "Is free text read or written?",
+      "hint": "E-mails, messages, documents, letters.",
+      "yes": { "outcome": "Single GenAI call", "ladder_steps": ["genai_call"], "is_agent": false },
+      "no": { "next": "q3" }
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "text": "Must it plan across tools or handle unknown cases?",
+      "hint": "The steps depend on what happens along the way.",
+      "yes": { "outcome": "Agent, with a one-line reason", "ladder_steps": ["agent", "multi_agent"], "is_agent": true },
+      "no": { "outcome": "Workflow or classic ML", "ladder_steps": ["workflow", "classic_ml"], "is_agent": false }
+    }
+  ],
+  "footer": "Several departments with their own agents? That is a multi-agent setup, the rarest case."
+}

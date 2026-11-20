@@ -1,0 +1,91 @@
+{
+  "title": "Use the lowest step that does the job",
+  "intro": "Every automation sits on one step of the automation ladder. Compute, cost and CO₂ rise with every step, so start at the bottom and climb only when the lower step can't do the job.",
+  "note": "Illustrative examples from different teams",
+  "steps": [
+    {
+      "id": "rule",
+      "number": 1,
+      "name": "Rule",
+      "what": "A fixed if-then check. No AI involved.",
+      "use_when": "The answer is yes or no and you can write the condition down.",
+      "relative_cost": 1,
+      "example": {
+        "title": "Invoice completeness check",
+        "situation": "A supplier invoice arrives.",
+        "how": "A rule checks that the purchase order number, amount and tax ID are filled in, and returns the invoice if one is missing.",
+        "why_this_step": "Checking whether a field is filled needs no AI. Only unreadable scans go to a person."
+      }
+    },
+    {
+      "id": "workflow",
+      "number": 2,
+      "name": "Workflow",
+      "what": "A fixed sequence of steps across systems, triggered by an event.",
+      "use_when": "The steps are always the same, only the data changes.",
+      "relative_cost": 2,
+      "example": {
+        "title": "Access request approval",
+        "situation": "An employee asks for access to a tool.",
+        "how": "The request goes to the manager, then to the tool owner. The account is created once both approve.",
+        "why_this_step": "The steps and their order never change, so a workflow does it without AI."
+      }
+    },
+    {
+      "id": "classic_ml",
+      "number": 3,
+      "name": "Classic ML",
+      "what": "A trained model that predicts or ranks from structured data. No text generation.",
+      "use_when": "You need a score, a category or a suggestion based on past data.",
+      "relative_cost": 3,
+      "example": {
+        "title": "Ticket routing",
+        "situation": "A support ticket comes in.",
+        "how": "A model trained on past tickets sorts it into one of twelve queues.",
+        "why_this_step": "The input is structured and the output is a category, so a small model is enough."
+      }
+    },
+    {
+      "id": "genai_call",
+      "number": 4,
+      "name": "GenAI call",
+      "what": "One prompt to a language model that reads or writes free text. One call, no planning.",
+      "use_when": "Free text has to be read or written, but the task itself is a single step.",
+      "relative_cost": 4,
+      "example": {
+        "title": "Personalised rejection message",
+        "situation": "A candidate is not moved forward after the interview.",
+        "how": "One call drafts a short personal message from an approved template and the interview notes. A recruiter checks and sends it.",
+        "why_this_step": "Writing the text needs a language model, but there is nothing to plan or decide."
+      }
+    },
+    {
+      "id": "agent",
+      "number": 5,
+      "name": "Agent",
+      "what": "A language model that plans its own steps, calls tools and retries until the goal is reached.",
+      "use_when": "It must plan across tools or handle cases nobody can list in advance.",
+      "relative_cost": 5,
+      "example": {
+        "title": "Incident investigation",
+        "situation": "An alert fires on a production system at night.",
+        "how": "The agent reads the alert, checks logs and recent changes, tries a fix from the runbook and re-plans if it fails.",
+        "why_this_step": "Which check comes next depends on what it finds, so the steps cannot be fixed in advance. Record a one-line agent reason when you choose this step."
+      }
+    },
+    {
+      "id": "multi_agent",
+      "number": 6,
+      "name": "Multi-agent",
+      "what": "Several agents with different roles that hand work to each other.",
+      "use_when": "Several departments each need their own agent and the agents must coordinate.",
+      "relative_cost": 6,
+      "example": {
+        "title": "International relocation",
+        "situation": "A new hire moves from Seoul to Walldorf.",
+        "how": "HR, IT and facilities agents coordinate visa paperwork, laptop and access, and a desk and temporary flat.",
+        "why_this_step": "Three areas with their own tools and rules have to plan together. This is rare: most cases fit a lower step."
+      }
+    }
+  ]
+}

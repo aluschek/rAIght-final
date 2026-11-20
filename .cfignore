@@ -1,0 +1,5 @@
+# Not uploaded by `cf push`. node_modules must stay out: the buildpack installs the Linux builds itself.
+node_modules/
+.git/
+docs/
+test/

@@ -1,0 +1,12 @@
+# Deploys the demo to SAP BTP, Cloud Foundry environment: `cf push` from the repo root (docs/technical/backend.md).
+# One app serves the app/ pages and the API. The database lives in memory and is filled on every start.
+applications:
+  - name: raight
+    memory: 1G # the in-memory database holds the simulated company's 650,000 runs
+    disk_quota: 1024M
+    instances: 1
+    timeout: 180 # seconds to start: the app answers only when the run log is filled
+    buildpacks:
+      - nodejs_buildpack
+    command: npm start
+    random-route: true

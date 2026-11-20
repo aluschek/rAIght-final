@@ -1,0 +1,39 @@
+/* P6 Agent detail – page-specific layout only. */
+.suggestion-body { padding: 20px 22px; display: flex; flex-direction: column; gap: 14px; height: 100%; }
+.suggestion-title { font-size: 22px; font-weight: 700; letter-spacing: -0.01em; }
+.suggestion-text { margin: 0; color: var(--color-text-inverse-soft); }
+.suggestion-facts {
+  display: flex; flex-direction: column; gap: 8px; padding: 12px 14px;
+  background: var(--color-surface-inverse-raised); border-radius: var(--radius-md); font-size: 13px;
+}
+.suggestion-facts div { display: flex; justify-content: space-between; gap: 12px; }
+.suggestion-facts dt { color: var(--color-text-inverse-soft); }
+.suggestion-facts dd { margin: 0; font-weight: 600; text-align: right; }
+.suggestion-facts .accent { color: var(--color-accent); }
+
+.ladder-mini { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 4px; align-items: end; }
+.ladder-mini span { border-radius: var(--radius-bar); background: var(--color-track-inverse); }
+.ladder-mini .is-target { background: var(--color-accent); }
+.ladder-mini .is-current { outline: 2px solid var(--color-danger); outline-offset: 1px; }
+.ladder-mini-labels { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 4px; font-size: 11px; text-align: center; color: var(--color-text-inverse-muted); }
+.ladder-mini-labels .is-target { color: var(--color-accent); font-weight: 600; }
+.ladder-mini-labels .is-current { color: var(--color-text-inverse); font-weight: 600; }
+
+.path-row {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px;
+  padding: 14px 20px; border-bottom: 1px solid var(--color-border);
+}
+.path-row:last-child { border-bottom: 0; }
+.path-row .path { flex: 1 1 340px; }
+.path-share { flex: 0 1 240px; display: flex; align-items: center; gap: 10px; }
+.path-share .bar-track { flex: 1; }
+.path-share .share-value { width: 44px; text-align: right; font-size: 14px; }
+
+.reason-quote { margin: 0; padding: 12px 14px; background: var(--color-bg); border-radius: var(--radius-md); font-style: italic; }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 6px 14px; margin: 0; font-size: 13px; }
+.facts dt { color: var(--color-text-muted); }
+.facts dd { margin: 0; }
+.divider { border: 0; border-top: 1px solid var(--color-border); margin: 2px 0; width: 100%; }
+
+.back-link { font-size: 12px; font-weight: 600; color: var(--color-text-muted); }
+.back-link:hover { color: var(--color-primary-dark); }

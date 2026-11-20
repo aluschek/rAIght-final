@@ -1,0 +1,399 @@
+[
+  {
+    "id": "app_status",
+    "name": "Application status",
+    "provider": "copilot_studio",
+    "owner": "Lena",
+    "purpose": "Answers candidates who ask where their application stands.",
+    "ladder_step": "agent",
+    "agent_reason": "Candidates ask about their status in free text, so I expected many different questions.",
+    "status": "active",
+    "runs_30d": 1129,
+    "tokens_30d": 7010000,
+    "same_path_share": 0.94,
+    "uniform_agent": true,
+    "conversion": null,
+    "days_since_last_run": 0,
+    "top_paths": [
+      {
+        "steps": [
+          "read_request",
+          "lookup_status",
+          "send_reply"
+        ],
+        "share": 0.94
+      },
+      {
+        "steps": [
+          "read_request",
+          "lookup_status",
+          "search_faq",
+          "send_reply"
+        ],
+        "share": 0.04
+      },
+      {
+        "steps": [
+          "read_request",
+          "escalate_to_recruiter"
+        ],
+        "share": 0.02
+      }
+    ],
+    "suggestion": "Convert to workflow",
+    "suggestion_text": "94 % of runs take the same three steps. A workflow does this without a model call, and only the rest needs judgement.",
+    "tokens_by_month": [
+      3840000,
+      4610000,
+      5310000,
+      5880000,
+      6440000,
+      7010000
+    ],
+    "runs_by_day": [
+      43,
+      39,
+      41,
+      48,
+      54,
+      19,
+      17,
+      42,
+      39,
+      41,
+      48,
+      55,
+      19,
+      17,
+      42,
+      39,
+      42,
+      49,
+      55,
+      19,
+      17,
+      42,
+      39,
+      42,
+      49,
+      55,
+      19,
+      17,
+      42,
+      39
+    ]
+  },
+  {
+    "id": "doc_check",
+    "name": "Document check",
+    "provider": "n8n",
+    "owner": "Lena",
+    "purpose": "Checks that every application has CV, certificates and work permit.",
+    "ladder_step": "agent",
+    "agent_reason": "Applicants upload documents in many formats and with unclear names.",
+    "status": "active",
+    "runs_30d": 842,
+    "tokens_30d": 9860000,
+    "same_path_share": 0.91,
+    "uniform_agent": true,
+    "conversion": null,
+    "days_since_last_run": 0,
+    "top_paths": [
+      {
+        "steps": [
+          "read_application",
+          "check_attachments",
+          "update_status"
+        ],
+        "share": 0.91
+      },
+      {
+        "steps": [
+          "read_application",
+          "check_attachments",
+          "request_missing_document"
+        ],
+        "share": 0.06
+      },
+      {
+        "steps": [
+          "read_application",
+          "escalate_to_recruiter"
+        ],
+        "share": 0.03
+      }
+    ],
+    "suggestion": "Replace with rule",
+    "suggestion_text": "Whether a file is there is a yes/no check. A form rule handles 91 % of runs, and unclear certificates go to a person.",
+    "tokens_by_month": [
+      5550000,
+      6430000,
+      7230000,
+      8110000,
+      9060000,
+      9860000
+    ],
+    "runs_by_day": [
+      38,
+      32,
+      29,
+      30,
+      35,
+      14,
+      14,
+      38,
+      32,
+      29,
+      30,
+      36,
+      14,
+      14,
+      38,
+      32,
+      29,
+      31,
+      36,
+      14,
+      14,
+      38,
+      32,
+      29,
+      31,
+      36,
+      14,
+      14,
+      37,
+      32
+    ]
+  },
+  {
+    "id": "offer_letters",
+    "name": "Offer letters",
+    "provider": "openai",
+    "owner": "Lena",
+    "purpose": "Drafts offer letters from the approved offer data.",
+    "ladder_step": "agent",
+    "agent_reason": "Every offer is different, so I wanted the agent to write each letter from scratch.",
+    "status": "active",
+    "runs_30d": 318,
+    "tokens_30d": 3210000,
+    "same_path_share": 0.88,
+    "uniform_agent": true,
+    "conversion": null,
+    "days_since_last_run": 1,
+    "top_paths": [
+      {
+        "steps": [
+          "read_offer_data",
+          "draft_letter",
+          "send_for_approval"
+        ],
+        "share": 0.88
+      },
+      {
+        "steps": [
+          "read_offer_data",
+          "draft_letter",
+          "revise_letter",
+          "send_for_approval"
+        ],
+        "share": 0.09
+      },
+      {
+        "steps": [
+          "read_offer_data",
+          "escalate_to_recruiter"
+        ],
+        "share": 0.03
+      }
+    ],
+    "suggestion": "Use template",
+    "suggestion_text": "88 % of letters follow the same structure. A template with merge fields covers them, and one GenAI call can personalise the rest.",
+    "tokens_by_month": [
+      1740000,
+      2040000,
+      2340000,
+      2640000,
+      2940000,
+      3210000
+    ],
+    "runs_by_day": [
+      13,
+      14,
+      14,
+      12,
+      11,
+      4,
+      4,
+      13,
+      14,
+      14,
+      12,
+      11,
+      4,
+      4,
+      13,
+      15,
+      14,
+      12,
+      11,
+      4,
+      4,
+      13,
+      15,
+      14,
+      12,
+      11,
+      4,
+      4,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "interview_scheduling",
+    "name": "Interview scheduling",
+    "provider": "n8n",
+    "owner": "Lena",
+    "purpose": "Finds slots and books interviews with candidates and panels.",
+    "ladder_step": "agent",
+    "agent_reason": "Panels span time zones and people decline, so the steps change every time.",
+    "status": "active",
+    "runs_30d": 406,
+    "tokens_30d": 6150000,
+    "same_path_share": 0.52,
+    "uniform_agent": false,
+    "conversion": null,
+    "days_since_last_run": 0,
+    "top_paths": [
+      {
+        "steps": [
+          "read_request",
+          "check_calendars",
+          "send_invite"
+        ],
+        "share": 0.52
+      },
+      {
+        "steps": [
+          "read_request",
+          "check_calendars",
+          "propose_slots",
+          "rebook",
+          "send_invite"
+        ],
+        "share": 0.31
+      },
+      {
+        "steps": [
+          "read_request",
+          "check_calendars",
+          "book_room",
+          "send_invite"
+        ],
+        "share": 0.17
+      }
+    ],
+    "suggestion": "Keep agent",
+    "suggestion_text": "Only about half of the runs follow one path, and complex panels really need planning. Keep it as an agent.",
+    "tokens_by_month": [
+      4310000,
+      4750000,
+      5110000,
+      5480000,
+      5820000,
+      6150000
+    ],
+    "runs_by_day": [
+      19,
+      19,
+      17,
+      14,
+      13,
+      5,
+      6,
+      19,
+      19,
+      17,
+      14,
+      13,
+      5,
+      6,
+      19,
+      19,
+      16,
+      14,
+      13,
+      5,
+      6,
+      19,
+      18,
+      16,
+      14,
+      13,
+      5,
+      6,
+      19,
+      18
+    ]
+  },
+  {
+    "id": "ref_check_reminder",
+    "name": "Reference check reminder",
+    "provider": "n8n",
+    "owner": "Lena",
+    "purpose": "Reminds referees to submit their reference.",
+    "ladder_step": "agent",
+    "agent_reason": "Referees reply in many ways, so I wanted the agent to follow up flexibly.",
+    "status": "unused",
+    "runs_30d": 0,
+    "tokens_30d": 0,
+    "same_path_share": null,
+    "uniform_agent": false,
+    "conversion": null,
+    "days_since_last_run": 124,
+    "top_paths": [],
+    "suggestion": "Retire",
+    "suggestion_text": "No runs for 124 days. Retire it so it no longer shows up in your automations.",
+    "tokens_by_month": [
+      540000,
+      240000,
+      0,
+      0,
+      0,
+      0
+    ],
+    "runs_by_day": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
