@@ -1,3 +1,3 @@
 # API
 
-> 🗄️ **Obsolete.** The demo is frontend only and has no API ([ADR 0006](../decisions/0006-pure-clickable-demo.md)). Pages read finished sample data from `app/data/` – see [sample-data.md](sample-data.md).
+> The API of the final state is documented in [backend.md](backend.md), with a table of all endpoints: the monitor API for the pages and the ingest API for connected tools. In the clickable-demo phase ([ADR 0006](../decisions/0006-pure-clickable-demo.md)) the prototype had no API yet.

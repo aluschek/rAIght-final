@@ -1,6 +1,6 @@
 # Demo script
 
-> This is the **scope boundary** for the build ([ADR 0006](../decisions/0006-pure-clickable-demo.md) – pure clickable demo, deadline 20 Nov 2026): what isn't in this script isn't built. Every step names the **page** that delivers it.
+> **Historical.** This was the demo path and scope boundary of the clickable-demo phase ([ADR 0006](../decisions/0006-pure-clickable-demo.md)), planned without a backend. The prototype we handed in has a real backend on SAP BTP ([ADR 0007](../decisions/0007-real-product-on-sap-btp.md), [architecture.md](architecture.md)), so the list of what is out of scope at the end of this file is outdated.
 
 **Story:** A company's CIO office wants to cut token costs and CO₂ of employee-built AI automations and buys rAIght from us ([ADR 0008](../decisions/0008-independent-vendor-framing.md)). Lena, Recruiting Operations Lead in the company's HR, builds hers with Copilot Studio, Power Automate, OpenAI and n8n. With rAIght she learns when an agent is really needed, builds with the triage, sees all her agents across tools in one place, and finds out that some of them behave like workflows ([ADR 0005](../decisions/0005-scope-external-agents.md)).
 
@@ -24,7 +24,7 @@
 | 11 | *(optional)* Tells the rAIght Assistant what she wants to automate | The Assistant suggests the ladder step with the same three questions as Plan an automation (asks Yes or No where the description is not enough), shows a sketch of the step and offers an n8n draft file | Keyword rules, **no model call**; the draft is a downloadable file and the "Create in n8n" button is **simulated**, nothing is sent to n8n | – |
 | 12 | *(optional)* Opens the **MCP servers and skills** panel (plug button in the Assistant), switches one off and asks a question that needs it, or connects another server by address | Three example servers (Jira MCP server, Internal Knowledge Hub, n8n) and three skills (Ladder triage, n8n draft, Token report) with on/off switches; a switched-off item makes the Assistant say so; every reply names its source | **Simulated**: nothing is connected, no model call ([ADR 0006](../decisions/0006-pure-clickable-demo.md)); the UI says so. A built-in assistant on a customer platform is only mentioned in the pitch, not built |
 
-All numbers come from the finished sample data ([sample-data.md](sample-data.md), issue D1).
+All numbers come from the finished sample data ([sample-data.md](sample-data.md)).
 
 ## Demo data requirements (D1)
 

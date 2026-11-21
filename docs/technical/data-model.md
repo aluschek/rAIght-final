@@ -1,6 +1,6 @@
 # Data model
 
-> 🗄️ **Not used by the demo** ([ADR 0006](../decisions/0006-pure-clickable-demo.md)) – the demo runs on [sample-data.md](sample-data.md). Kept as the data model of the real product, e.g. for the architecture slide in the pitch.
+> The data model of the full product, wider than the prototype. The model the prototype implements is in `db/schema.cds`, described in [backend.md](backend.md).
 
 Terms follow the [glossary](../concept/09-glossary.md).
 
